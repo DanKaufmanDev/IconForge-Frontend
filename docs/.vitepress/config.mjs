@@ -5,11 +5,11 @@ export default defineConfig({
    ['link', { rel: 'icon', href: '/favicon.ico', type: 'image/x-icon' }]
 ],
 
-  srcDir: "docs",
+  srcDir: "",
   
   title: "IconForge",
   description: "IconForge is a performance-focused, utility-style icon library.",
-
+  base: '/',
   themeConfig: {
     logo: {src: '/if.webp'},
     search: {

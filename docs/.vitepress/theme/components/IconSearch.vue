@@ -72,7 +72,7 @@ const gridColumns = computed(() => {
 });
 
 onMounted(async () => {
-  const { default: icons } = await import('./icon-metadata.json');
+  const { default: icons } = await import('../../../public/icon-metadata.json')
   allIcons.value = icons;
 
   const params = new URLSearchParams(window.location.search);

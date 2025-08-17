@@ -1,8 +1,8 @@
 // https://vitepress.dev/guide/custom-theme
 import DefaultTheme from 'vitepress/theme'
 import './custom.css'
-import BG from './BG.vue'
-import HeroSearch from './HeroSearch.vue'
+import BG from './components/BG.vue'
+import HeroSearch from './components/HeroSearch.vue'
 
 /** @type {import('vitepress').Theme} */
 export default {

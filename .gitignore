@@ -1,4 +1,4 @@
 .DS_Store
 node_modules/
 *.log
-.vitepress/dist/
+docs/.vitepress/dist/

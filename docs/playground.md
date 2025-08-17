@@ -4,7 +4,7 @@ sidebar: false
 ---
 
 <script setup>
-import Playground from '../.vitepress/theme/Playground.vue'
+import Playground from './.vitepress/theme/components/Playground.vue'
 </script>
 
 <Playground />
