@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+:root {
+    /* Hero IcoonForge */
+    --vp-home-hero-name-color: transparent;
+    --vp-home-hero-name-background: -webkit-linear-gradient(120deg,#3442fe 30%,#348cfe);
+    --vp-home-hero-image-background-image: linear-gradient(-45deg,#3442fe 50%,#348cfe 50%);
+    --vp-home-hero-image-filter: blur(44px);
+    /* Docs/Githhub BG */
+    --vp-c-default-3: #c4cad080;
+    /* Hover */
+    --vp-c-default-2: #a8adb380;
+
+    /* Getting Started */
+    --vp-c-brand-3: #348cfe;
+    /* Hover */
+    --vp-c-brand-2: #3442fe;
+    /* BackGround */
+    --vp-c-bg: #e5e7eb;
+    --vp-c-bg-alt: #d1d5dbce;
+    /* Text */
+    --vp-c-text-1: #1a1a1a;
+    --vp-c-text-2: #4d4d4d;
+    --vp-c-text-inverse: #ffffff;
+
+    --vp-c-divider: #2a2a2a88;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    line-height: 1.5;
+    overflow-x: hidden;
+}
+
+.box {
+    background: #c4cad080;
+    backdrop-filter: blur(4px);
+    border: 1px solid #38353526;
+    border-radius: 0.5rem;
+}
+
+.VPHomeFeatures :is(article):hover {
+    border: 1px solid #348cfe;
+}
+
+.VPImage {
+    transform: translateY(-0.15rem);
+    width: 1.5rem;
+    height: 2.5rem;
+    scale: 1.5;
+    
+}
+
+#local-search {
+    margin-left: auto;
+}
+.VPHome {
+    display: flexbox;
+    flex-direction: column;
+
+}
+.VPHomeHero {
+    width: auto;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.VPHomeHero .container {
+    text-align: left;   
+}
+.VPHomeHero .text {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    max-width: 100%;
+    flex: 1 1 auto;
+}
+.heading > span {
+    margin-left: auto;
+    margin-right: auto;
+}
+.heading .name {
+    font-size: 3.5rem;
+}
+.main > p {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.DocSearch {
+    border-radius: 10rem;
+}
+.actions .action:last-child {
+    margin-right: auto;
+}
+.actions .action:first-child{
+    margin-left: auto;
+}
+.shell:nth-child {
+    backdrop-filter: blur(4px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+:root.dark{
+    --vp-c-default-3: #423e3e80;
+    --vp-c-default-2: #79747480;
+
+    --vp-c-brand-3: #3442fe;
+    --vp-c-brand-2: #348cfe;
+
+    --vp-c-text-1: #dfdfdf;
+    --vp-c-text-2: #d4d4d4;
+    --vp-c-text-inverse: #1a1a1a;
+
+    --vp-c-bg: #111827;  /*mist-10*/
+    --vp-c-bg-alt: #14202fdf;  /*cloud-9*/
+
+     --vp-c-divider: #e0dada24;
+}
+.grid-3 .VPLink {
+    background: rgba(255, 255, 255, 0);
+}
+.dark .box {
+    background: #1f293740;
+    backdrop-filter: blur(4px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 0.5rem;
+}
+
+.dark .VPHomeFeatures :is(article):hover {
+    border: 1px solid #348cfe;
+}
+
+#icon-library {
+    font-family: 'Inter';
+    font-weight: 800;
+    font-size: x-large;
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+    text-align: center;
+}
+.VPPage > div > div > p {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: medium;
+    text-align: center;
+    margin-bottom: 1rem;
+}

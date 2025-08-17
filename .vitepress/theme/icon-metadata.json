@@ -1,0 +1,4284 @@
+[
+  {
+    "name": "if-drop",
+    "tags": [
+      "drop"
+    ],
+    "filter": ""
+  },
+  {
+    "name": "if-earth",
+    "tags": [
+      "earth"
+    ],
+    "filter": ""
+  },
+  {
+    "name": "if-globe",
+    "tags": [
+      "globe"
+    ],
+    "filter": ""
+  },
+  {
+    "name": "if-snowflake",
+    "tags": [
+      "snowflake"
+    ],
+    "filter": ""
+  },
+  {
+    "name": "if-sun",
+    "tags": [
+      "sun"
+    ],
+    "filter": ""
+  },
+  {
+    "name": "if-contactdetails",
+    "tags": [
+      "contactdetails"
+    ],
+    "filter": "Communication"
+  },
+  {
+    "name": "if-user",
+    "tags": [
+      "user"
+    ],
+    "filter": "People"
+  },
+  {
+    "name": "if-usercheck",
+    "tags": [
+      "usercheck"
+    ],
+    "filter": "People"
+  },
+  {
+    "name": "if-usermanagement",
+    "tags": [
+      "usermanagement"
+    ],
+    "filter": "People"
+  },
+  {
+    "name": "if-userprofile",
+    "tags": [
+      "userprofile"
+    ],
+    "filter": "People"
+  },
+  {
+    "name": "if-usersettings",
+    "tags": [
+      "usersettings"
+    ],
+    "filter": "People"
+  },
+  {
+    "name": "if-about",
+    "tags": [
+      "about"
+    ],
+    "filter": "Shapes & Symbols"
+  },
+  {
+    "name": "if-addtask",
+    "tags": [
+      "addtask"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-addtasklist",
+    "tags": [
+      "addtasklist"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-appmenu",
+    "tags": [
+      "appmenu"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-apps",
+    "tags": [
+      "apps"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-cardlayout",
+    "tags": [
+      "cardlayout"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-checkbox",
+    "tags": [
+      "checkbox"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-checkbox-checked",
+    "tags": [
+      "checkbox",
+      "checked"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-checkbox-mixed",
+    "tags": [
+      "checkbox",
+      "mixed"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-checkbox-unchecked",
+    "tags": [
+      "checkbox",
+      "unchecked"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-checkboxes",
+    "tags": [
+      "checkboxes"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-clearfilter",
+    "tags": [
+      "clearfilter"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-contextmenu",
+    "tags": [
+      "contextmenu"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-details",
+    "tags": [
+      "details"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-filter",
+    "tags": [
+      "filter"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-filteroutline",
+    "tags": [
+      "filteroutline"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-fullscreeen",
+    "tags": [
+      "fullscreeen"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-fullscreeenexit",
+    "tags": [
+      "fullscreeenexit"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-hierarchy",
+    "tags": [
+      "hierarchy"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-info",
+    "tags": [
+      "info"
+    ],
+    "filter": "Shapes & Symbols"
+  },
+  {
+    "name": "if-infofeed",
+    "tags": [
+      "infofeed"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-itemdetails",
+    "tags": [
+      "itemdetails"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-label",
+    "tags": [
+      "label"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-layers",
+    "tags": [
+      "layers"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-list",
+    "tags": [
+      "list"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-maximize",
+    "tags": [
+      "maximize"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-minimize",
+    "tags": [
+      "minimize"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-moremenu",
+    "tags": [
+      "moremenu"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-newindicator",
+    "tags": [
+      "newindicator"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-nofilter",
+    "tags": [
+      "nofilter"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-question",
+    "tags": [
+      "question"
+    ],
+    "filter": "Shapes & Symbols"
+  },
+  {
+    "name": "if-search",
+    "tags": [
+      "search"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-splithorizontally",
+    "tags": [
+      "splithorizontally"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-splitvertically",
+    "tags": [
+      "splitvertically"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-star",
+    "tags": [
+      "star"
+    ],
+    "filter": ""
+  },
+  {
+    "name": "if-starlist",
+    "tags": [
+      "starlist"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-table",
+    "tags": [
+      "table"
+    ],
+    "filter": "Business & Charts"
+  },
+  {
+    "name": "if-tablecolumns",
+    "tags": [
+      "tablecolumns"
+    ],
+    "filter": "Business & Charts"
+  },
+  {
+    "name": "if-tablerows",
+    "tags": [
+      "tablerows"
+    ],
+    "filter": "Business & Charts"
+  },
+  {
+    "name": "if-tablesettings",
+    "tags": [
+      "tablesettings"
+    ],
+    "filter": "Business & Charts"
+  },
+  {
+    "name": "if-tag",
+    "tags": [
+      "tag"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-tasksall",
+    "tags": [
+      "tasksall"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-tasksdone",
+    "tags": [
+      "tasksdone"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-tasksopen",
+    "tags": [
+      "tasksopen"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-topic",
+    "tags": [
+      "topic"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-tree",
+    "tags": [
+      "tree"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-zoomin",
+    "tags": [
+      "zoomin"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-zoomout",
+    "tags": [
+      "zoomout"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-zoomselection",
+    "tags": [
+      "zoomselection"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-alarmclock",
+    "tags": [
+      "alarmclock"
+    ],
+    "filter": "Time & Date"
+  },
+  {
+    "name": "if-calendar",
+    "tags": [
+      "calendar"
+    ],
+    "filter": "Time & Date"
+  },
+  {
+    "name": "if-calendarsettings",
+    "tags": [
+      "calendarsettings"
+    ],
+    "filter": "Time & Date"
+  },
+  {
+    "name": "if-clock",
+    "tags": [
+      "clock"
+    ],
+    "filter": "Time & Date"
+  },
+  {
+    "name": "if-history",
+    "tags": [
+      "history"
+    ],
+    "filter": "Time & Date"
+  },
+  {
+    "name": "if-historylist",
+    "tags": [
+      "historylist"
+    ],
+    "filter": "Time & Date"
+  },
+  {
+    "name": "if-hourglass",
+    "tags": [
+      "hourglass"
+    ],
+    "filter": "Time & Date"
+  },
+  {
+    "name": "if-liveschedule",
+    "tags": [
+      "liveschedule"
+    ],
+    "filter": "Time & Date"
+  },
+  {
+    "name": "if-scheduler",
+    "tags": [
+      "scheduler"
+    ],
+    "filter": "Time & Date"
+  },
+  {
+    "name": "if-versionhistory",
+    "tags": [
+      "versionhistory"
+    ],
+    "filter": "Time & Date"
+  },
+  {
+    "name": "if-settings-outline",
+    "tags": [
+      "settings",
+      "outline"
+    ],
+    "filter": "Hardware"
+  },
+  {
+    "name": "if-settings-solid",
+    "tags": [
+      "settings",
+      "solid"
+    ],
+    "filter": "Hardware"
+  },
+  {
+    "name": "if-cogwheel",
+    "tags": [
+      "cogwheel"
+    ],
+    "filter": "Hardware"
+  },
+  {
+    "name": "if-configuration",
+    "tags": [
+      "configuration"
+    ],
+    "filter": "Hardware"
+  },
+  {
+    "name": "if-configure",
+    "tags": [
+      "configure"
+    ],
+    "filter": "Hardware"
+  },
+  {
+    "name": "if-controlleddevice",
+    "tags": [
+      "controlleddevice"
+    ],
+    "filter": "Hardware"
+  },
+  {
+    "name": "if-controllerdevice",
+    "tags": [
+      "controllerdevice"
+    ],
+    "filter": "Hardware"
+  },
+  {
+    "name": "if-database",
+    "tags": [
+      "database"
+    ],
+    "filter": "Development"
+  },
+  {
+    "name": "if-dataegress",
+    "tags": [
+      "dataegress"
+    ],
+    "filter": "Development"
+  },
+  {
+    "name": "if-dataingress",
+    "tags": [
+      "dataingress"
+    ],
+    "filter": "Development"
+  },
+  {
+    "name": "if-dataingressegress",
+    "tags": [
+      "dataingressegress"
+    ],
+    "filter": "Development"
+  },
+  {
+    "name": "if-disk",
+    "tags": [
+      "disk"
+    ],
+    "filter": "Hardware"
+  },
+  {
+    "name": "if-hardwarecabinet",
+    "tags": [
+      "hardwarecabinet"
+    ],
+    "filter": "Hardware"
+  },
+  {
+    "name": "if-ingestion",
+    "tags": [
+      "ingestion"
+    ],
+    "filter": "Development"
+  },
+  {
+    "name": "if-lock",
+    "tags": [
+      "lock"
+    ],
+    "filter": "Security"
+  },
+  {
+    "name": "if-lockkey",
+    "tags": [
+      "lockkey"
+    ],
+    "filter": "Security"
+  },
+  {
+    "name": "if-pctower",
+    "tags": [
+      "pctower"
+    ],
+    "filter": "Hardware"
+  },
+  {
+    "name": "if-unlock",
+    "tags": [
+      "unlock"
+    ],
+    "filter": "Security"
+  },
+  {
+    "name": "if-anomaly",
+    "tags": [
+      "anomaly"
+    ],
+    "filter": "Status"
+  },
+  {
+    "name": "if-anomalyfound",
+    "tags": [
+      "anomalyfound"
+    ],
+    "filter": "Status"
+  },
+  {
+    "name": "if-cancelled",
+    "tags": [
+      "cancelled"
+    ],
+    "filter": "Status"
+  },
+  {
+    "name": "if-connected",
+    "tags": [
+      "connected"
+    ],
+    "filter": "Status"
+  },
+  {
+    "name": "if-disconnected",
+    "tags": [
+      "disconnected"
+    ],
+    "filter": "Status"
+  },
+  {
+    "name": "if-doublecheck",
+    "tags": [
+      "doublecheck"
+    ],
+    "filter": "Status"
+  },
+  {
+    "name": "if-error",
+    "tags": [
+      "error"
+    ],
+    "filter": "Status"
+  },
+  {
+    "name": "if-health",
+    "tags": [
+      "health"
+    ],
+    "filter": "Health"
+  },
+  {
+    "name": "if-mandatory",
+    "tags": [
+      "mandatory"
+    ],
+    "filter": "Status"
+  },
+  {
+    "name": "if-mandatorydone",
+    "tags": [
+      "mandatorydone"
+    ],
+    "filter": "Status"
+  },
+  {
+    "name": "if-checkfunction",
+    "tags": [
+      "checkfunction"
+    ],
+    "filter": "Status"
+  },
+  {
+    "name": "if-failure",
+    "tags": [
+      "failure"
+    ],
+    "filter": "Status"
+  },
+  {
+    "name": "if-maintenancerequired",
+    "tags": [
+      "maintenancerequired"
+    ],
+    "filter": "Status"
+  },
+  {
+    "name": "if-checksquare",
+    "tags": [
+      "checksquare"
+    ],
+    "filter": "Status"
+  },
+  {
+    "name": "if-questiontri",
+    "tags": [
+      "questiontri"
+    ],
+    "filter": "Shapes & Symbols"
+  },
+  {
+    "name": "if-priohigh",
+    "tags": [
+      "priohigh"
+    ],
+    "filter": "Status"
+  },
+  {
+    "name": "if-priolow",
+    "tags": [
+      "priolow"
+    ],
+    "filter": "Status"
+  },
+  {
+    "name": "if-priomiddle",
+    "tags": [
+      "priomiddle"
+    ],
+    "filter": "Status"
+  },
+  {
+    "name": "if-singlecheck",
+    "tags": [
+      "singlecheck"
+    ],
+    "filter": "Status"
+  },
+  {
+    "name": "if-success",
+    "tags": [
+      "success"
+    ],
+    "filter": "Status"
+  },
+  {
+    "name": "if-validate",
+    "tags": [
+      "validate"
+    ],
+    "filter": "Status"
+  },
+  {
+    "name": "if-warningtri",
+    "tags": [
+      "warningtri"
+    ],
+    "filter": "Shapes & Symbols"
+  },
+  {
+    "name": "if-warningrhomb",
+    "tags": [
+      "warningrhomb"
+    ],
+    "filter": "Shapes & Symbols"
+  },
+  {
+    "name": "if-heart",
+    "tags": [
+      "heart"
+    ],
+    "filter": "Health"
+  },
+  {
+    "name": "if-share",
+    "tags": [
+      "share"
+    ],
+    "filter": "Communication"
+  },
+  {
+    "name": "if-signlanguage",
+    "tags": [
+      "signlanguage"
+    ],
+    "filter": "Health"
+  },
+  {
+    "name": "if-barcode",
+    "tags": [
+      "barcode"
+    ],
+    "filter": "Shopping"
+  },
+  {
+    "name": "if-product",
+    "tags": [
+      "product"
+    ],
+    "filter": "Shopping"
+  },
+  {
+    "name": "if-productcatalog",
+    "tags": [
+      "productcatalog"
+    ],
+    "filter": "Shopping"
+  },
+  {
+    "name": "if-productmanagement",
+    "tags": [
+      "productmanagement"
+    ],
+    "filter": "Shopping"
+  },
+  {
+    "name": "if-shoppingcart",
+    "tags": [
+      "shoppingcart"
+    ],
+    "filter": "Shopping"
+  },
+  {
+    "name": "if-circle",
+    "tags": [
+      "circle"
+    ],
+    "filter": "Shapes & Symbols"
+  },
+  {
+    "name": "if-circledot",
+    "tags": [
+      "circledot"
+    ],
+    "filter": "Shapes & Symbols"
+  },
+  {
+    "name": "if-compoundblock",
+    "tags": [
+      "compoundblock"
+    ],
+    "filter": "Shapes & Symbols"
+  },
+  {
+    "name": "if-connector",
+    "tags": [
+      "connector"
+    ],
+    "filter": "Shapes & Symbols"
+  },
+  {
+    "name": "if-connectorhex",
+    "tags": [
+      "connectorhex"
+    ],
+    "filter": "Shapes & Symbols"
+  },
+  {
+    "name": "if-connectorrect",
+    "tags": [
+      "connectorrect"
+    ],
+    "filter": "Shapes & Symbols"
+  },
+  {
+    "name": "if-connectorrhomb",
+    "tags": [
+      "connectorrhomb"
+    ],
+    "filter": "Shapes & Symbols"
+  },
+  {
+    "name": "if-diamond",
+    "tags": [
+      "diamond"
+    ],
+    "filter": "Shapes & Symbols"
+  },
+  {
+    "name": "if-doublet",
+    "tags": [
+      "doublet"
+    ],
+    "filter": "Shapes & Symbols"
+  },
+  {
+    "name": "if-rhomb",
+    "tags": [
+      "rhomb"
+    ],
+    "filter": "Shapes & Symbols"
+  },
+  {
+    "name": "if-triangle",
+    "tags": [
+      "triangle"
+    ],
+    "filter": "Shapes & Symbols"
+  },
+  {
+    "name": "if-ai",
+    "tags": [
+      "ai"
+    ],
+    "filter": "Development"
+  },
+  {
+    "name": "if-code",
+    "tags": [
+      "code"
+    ],
+    "filter": "Development"
+  },
+  {
+    "name": "if-diagrammodule",
+    "tags": [
+      "diagrammodule"
+    ],
+    "filter": "Development"
+  },
+  {
+    "name": "if-diagrammodulelibrary",
+    "tags": [
+      "diagrammodulelibrary"
+    ],
+    "filter": "Development"
+  },
+  {
+    "name": "if-diagrammodulenew",
+    "tags": [
+      "diagrammodulenew"
+    ],
+    "filter": "Development"
+  },
+  {
+    "name": "if-functionblock",
+    "tags": [
+      "functionblock"
+    ],
+    "filter": "Development"
+  },
+  {
+    "name": "if-functionblocklibrary",
+    "tags": [
+      "functionblocklibrary"
+    ],
+    "filter": "Development"
+  },
+  {
+    "name": "if-functionblocknew",
+    "tags": [
+      "functionblocknew"
+    ],
+    "filter": "Development"
+  },
+  {
+    "name": "if-functiondiagram",
+    "tags": [
+      "functiondiagram"
+    ],
+    "filter": "Development"
+  },
+  {
+    "name": "if-functiondiagramnew",
+    "tags": [
+      "functiondiagramnew"
+    ],
+    "filter": "Development"
+  },
+  {
+    "name": "if-logicdiagram",
+    "tags": [
+      "logicdiagram"
+    ],
+    "filter": "Development"
+  },
+  {
+    "name": "if-ontology",
+    "tags": [
+      "ontology"
+    ],
+    "filter": "Development"
+  },
+  {
+    "name": "if-project",
+    "tags": [
+      "project"
+    ],
+    "filter": "Development"
+  },
+  {
+    "name": "if-projectconfiguration",
+    "tags": [
+      "projectconfiguration"
+    ],
+    "filter": "Development"
+  },
+  {
+    "name": "if-projectnew",
+    "tags": [
+      "projectnew"
+    ],
+    "filter": "Development"
+  },
+  {
+    "name": "if-protocol",
+    "tags": [
+      "protocol"
+    ],
+    "filter": "Development"
+  },
+  {
+    "name": "if-createplant",
+    "tags": [
+      "createplant"
+    ],
+    "filter": "Plants & Nature"
+  },
+  {
+    "name": "if-editplant",
+    "tags": [
+      "editplant"
+    ],
+    "filter": "Plants & Nature"
+  },
+  {
+    "name": "if-globalplant",
+    "tags": [
+      "globalplant"
+    ],
+    "filter": "Plants & Nature"
+  },
+  {
+    "name": "if-leaf",
+    "tags": [
+      "leaf"
+    ],
+    "filter": "Plants & Nature"
+  },
+  {
+    "name": "if-operateplant",
+    "tags": [
+      "operateplant"
+    ],
+    "filter": "Plants & Nature"
+  },
+  {
+    "name": "if-plant",
+    "tags": [
+      "plant"
+    ],
+    "filter": "Location"
+  },
+  {
+    "name": "if-plant-handbook",
+    "tags": [
+      "plant",
+      "handbook"
+    ],
+    "filter": "Plants & Nature"
+  },
+  {
+    "name": "if-plantoutline",
+    "tags": [
+      "plantoutline"
+    ],
+    "filter": "Plants & Nature"
+  },
+  {
+    "name": "if-plants",
+    "tags": [
+      "plants"
+    ],
+    "filter": "Plants & Nature"
+  },
+  {
+    "name": "if-plantsecurity",
+    "tags": [
+      "plantsecurity"
+    ],
+    "filter": "Plants & Nature"
+  },
+  {
+    "name": "if-plantsettings",
+    "tags": [
+      "plantsettings"
+    ],
+    "filter": "Plants & Nature"
+  },
+  {
+    "name": "if-plantuser",
+    "tags": [
+      "plantuser"
+    ],
+    "filter": "Plants & Nature"
+  },
+  {
+    "name": "if-tulip",
+    "tags": [
+      "tulip"
+    ],
+    "filter": "Plants & Nature"
+  },
+  {
+    "name": "if-unlockplant",
+    "tags": [
+      "unlockplant"
+    ],
+    "filter": "Plants & Nature"
+  },
+  {
+    "name": "if-book",
+    "tags": [
+      "book"
+    ],
+    "filter": "Objects & Miscellaneous"
+  },
+  {
+    "name": "if-workcase",
+    "tags": [
+      "workcase"
+    ],
+    "filter": "Objects & Miscellaneous"
+  },
+  {
+    "name": "if-binoculars",
+    "tags": [
+      "binoculars"
+    ],
+    "filter": "Objects & Miscellaneous"
+  },
+  {
+    "name": "if-bulb",
+    "tags": [
+      "bulb"
+    ],
+    "filter": "Objects & Miscellaneous"
+  },
+  {
+    "name": "if-couch",
+    "tags": [
+      "couch"
+    ],
+    "filter": "Objects & Miscellaneous"
+  },
+  {
+    "name": "if-rocket",
+    "tags": [
+      "rocket"
+    ],
+    "filter": "Objects & Miscellaneous"
+  },
+  {
+    "name": "if-waterbathing",
+    "tags": [
+      "waterbathing"
+    ],
+    "filter": "Objects & Miscellaneous"
+  },
+  {
+    "name": "if-waterfish",
+    "tags": [
+      "waterfish"
+    ],
+    "filter": "Objects & Miscellaneous"
+  },
+  {
+    "name": "if-watersunbathing",
+    "tags": [
+      "watersunbathing"
+    ],
+    "filter": "Objects & Miscellaneous"
+  },
+  {
+    "name": "if-warning1",
+    "tags": [
+      "warning1"
+    ],
+    "filter": "Objects & Miscellaneous"
+  },
+  {
+    "name": "if-alarm-bell",
+    "tags": [
+      "alarm",
+      "bell"
+    ],
+    "filter": "Objects & Miscellaneous"
+  },
+  {
+    "name": "if-alarm-bell-cancelled",
+    "tags": [
+      "alarm",
+      "bell",
+      "cancelled"
+    ],
+    "filter": "Objects & Miscellaneous"
+  },
+  {
+    "name": "if-notification",
+    "tags": [
+      "notification"
+    ],
+    "filter": "Communication"
+  },
+  {
+    "name": "if-notifications",
+    "tags": [
+      "notifications"
+    ],
+    "filter": "Communication"
+  },
+  {
+    "name": "if-navigation",
+    "tags": [
+      "navigation"
+    ],
+    "filter": "Location"
+  },
+  {
+    "name": "if-navigation-left",
+    "tags": [
+      "navigation",
+      "left"
+    ],
+    "filter": "Location"
+  },
+  {
+    "name": "if-navigation-right",
+    "tags": [
+      "navigation",
+      "right"
+    ],
+    "filter": "Location"
+  },
+  {
+    "name": "if-gauge",
+    "tags": [
+      "gauge"
+    ],
+    "filter": "Business & Charts"
+  },
+  {
+    "name": "if-maintenance-info",
+    "tags": [
+      "maintenance",
+      "info"
+    ],
+    "filter": "Status"
+  },
+  {
+    "name": "if-maintenance-warning",
+    "tags": [
+      "maintenance",
+      "warning"
+    ],
+    "filter": "Status"
+  },
+  {
+    "name": "if-maintenance",
+    "tags": [
+      "maintenance"
+    ],
+    "filter": "Status"
+  },
+  {
+    "name": "if-monitor",
+    "tags": [
+      "monitor"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-surveillance",
+    "tags": [
+      "surveillance"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-battery-check",
+    "tags": [
+      "battery",
+      "check"
+    ],
+    "filter": "Hardware"
+  },
+  {
+    "name": "if-battery-empty",
+    "tags": [
+      "battery",
+      "empty"
+    ],
+    "filter": "Hardware"
+  },
+  {
+    "name": "if-battery-question",
+    "tags": [
+      "battery",
+      "question"
+    ],
+    "filter": "Hardware"
+  },
+  {
+    "name": "if-battery-exclamation",
+    "tags": [
+      "battery",
+      "exclamation"
+    ],
+    "filter": "Hardware"
+  },
+  {
+    "name": "if-battery-full",
+    "tags": [
+      "battery",
+      "full"
+    ],
+    "filter": "Hardware"
+  },
+  {
+    "name": "if-battery-full-check",
+    "tags": [
+      "battery",
+      "full",
+      "check"
+    ],
+    "filter": "Hardware"
+  },
+  {
+    "name": "if-battery-half",
+    "tags": [
+      "battery",
+      "half"
+    ],
+    "filter": "Hardware"
+  },
+  {
+    "name": "if-battery-low",
+    "tags": [
+      "battery",
+      "low"
+    ],
+    "filter": "Hardware"
+  },
+  {
+    "name": "if-battery-quarter",
+    "tags": [
+      "battery",
+      "quarter"
+    ],
+    "filter": "Hardware"
+  },
+  {
+    "name": "if-battery-slash",
+    "tags": [
+      "battery",
+      "slash"
+    ],
+    "filter": "Hardware"
+  },
+  {
+    "name": "if-battery-threequarter",
+    "tags": [
+      "battery",
+      "threequarter"
+    ],
+    "filter": "Hardware"
+  },
+  {
+    "name": "if-battery-x",
+    "tags": [
+      "battery",
+      "x"
+    ],
+    "filter": "Hardware"
+  },
+  {
+    "name": "if-phone",
+    "tags": [
+      "phone"
+    ],
+    "filter": "Communication"
+  },
+  {
+    "name": "if-signal-0",
+    "tags": [
+      "signal",
+      "0"
+    ],
+    "filter": "Communication"
+  },
+  {
+    "name": "if-signal-1",
+    "tags": [
+      "signal",
+      "1"
+    ],
+    "filter": "Communication"
+  },
+  {
+    "name": "if-signal-2",
+    "tags": [
+      "signal",
+      "2"
+    ],
+    "filter": "Communication"
+  },
+  {
+    "name": "if-signal-3",
+    "tags": [
+      "signal",
+      "3"
+    ],
+    "filter": "Communication"
+  },
+  {
+    "name": "if-signal-4",
+    "tags": [
+      "signal",
+      "4"
+    ],
+    "filter": "Communication"
+  },
+  {
+    "name": "if-signal-5",
+    "tags": [
+      "signal",
+      "5"
+    ],
+    "filter": "Communication"
+  },
+  {
+    "name": "if-signal-6",
+    "tags": [
+      "signal",
+      "6"
+    ],
+    "filter": "Communication"
+  },
+  {
+    "name": "if-signal-7",
+    "tags": [
+      "signal",
+      "7"
+    ],
+    "filter": "Communication"
+  },
+  {
+    "name": "if-signal-8",
+    "tags": [
+      "signal",
+      "8"
+    ],
+    "filter": "Communication"
+  },
+  {
+    "name": "if-wifi-no",
+    "tags": [
+      "wifi",
+      "no"
+    ],
+    "filter": "Communication"
+  },
+  {
+    "name": "if-wifi-error",
+    "tags": [
+      "wifi",
+      "error"
+    ],
+    "filter": "Communication"
+  },
+  {
+    "name": "if-wifi-sm",
+    "tags": [
+      "wifi",
+      "sm"
+    ],
+    "filter": "Communication"
+  },
+  {
+    "name": "if-wifi-md",
+    "tags": [
+      "wifi",
+      "md"
+    ],
+    "filter": "Communication"
+  },
+  {
+    "name": "if-wifi-lg",
+    "tags": [
+      "wifi",
+      "lg"
+    ],
+    "filter": "Communication"
+  },
+  {
+    "name": "if-capture",
+    "tags": [
+      "capture"
+    ],
+    "filter": "Images & Video"
+  },
+  {
+    "name": "if-disc",
+    "tags": [
+      "disc"
+    ],
+    "filter": "Images & Video"
+  },
+  {
+    "name": "if-image",
+    "tags": [
+      "image"
+    ],
+    "filter": "Images & Video"
+  },
+  {
+    "name": "if-camera",
+    "tags": [
+      "camera"
+    ],
+    "filter": "Hardware"
+  },
+  {
+    "name": "if-screen",
+    "tags": [
+      "screen"
+    ],
+    "filter": "Hardware"
+  },
+  {
+    "name": "if-screenshot",
+    "tags": [
+      "screenshot"
+    ],
+    "filter": "Images & Video"
+  },
+  {
+    "name": "if-video-file",
+    "tags": [
+      "video",
+      "file"
+    ],
+    "filter": "Images & Video"
+  },
+  {
+    "name": "if-webcam",
+    "tags": [
+      "webcam"
+    ],
+    "filter": "Hardware"
+  },
+  {
+    "name": "if-login-secure",
+    "tags": [
+      "login",
+      "secure"
+    ],
+    "filter": "Security"
+  },
+  {
+    "name": "if-logout",
+    "tags": [
+      "logout"
+    ],
+    "filter": "Security"
+  },
+  {
+    "name": "if-building",
+    "tags": [
+      "building"
+    ],
+    "filter": "Location"
+  },
+  {
+    "name": "if-building-alt",
+    "tags": [
+      "building",
+      "alt"
+    ],
+    "filter": "Location"
+  },
+  {
+    "name": "if-home",
+    "tags": [
+      "home"
+    ],
+    "filter": "Location"
+  },
+  {
+    "name": "if-location",
+    "tags": [
+      "location"
+    ],
+    "filter": "Location"
+  },
+  {
+    "name": "if-location-alt",
+    "tags": [
+      "location",
+      "alt"
+    ],
+    "filter": "Location"
+  },
+  {
+    "name": "if-map",
+    "tags": [
+      "map"
+    ],
+    "filter": "Location"
+  },
+  {
+    "name": "if-explore",
+    "tags": [
+      "explore"
+    ],
+    "filter": "Location"
+  },
+  {
+    "name": "if-eye",
+    "tags": [
+      "eye"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-flag",
+    "tags": [
+      "flag"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-language",
+    "tags": [
+      "language"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-legal",
+    "tags": [
+      "legal"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-library",
+    "tags": [
+      "library"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-library-new",
+    "tags": [
+      "library",
+      "new"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-license",
+    "tags": [
+      "license"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-qrcode",
+    "tags": [
+      "qrcode"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-reference",
+    "tags": [
+      "reference"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-spatial",
+    "tags": [
+      "spatial"
+    ],
+    "filter": "Location"
+  },
+  {
+    "name": "if-support",
+    "tags": [
+      "support"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-folder",
+    "tags": [
+      "folder"
+    ],
+    "filter": "Files & Folders"
+  },
+  {
+    "name": "if-folder-down",
+    "tags": [
+      "folder",
+      "down"
+    ],
+    "filter": "Files & Folders"
+  },
+  {
+    "name": "if-folder-new",
+    "tags": [
+      "folder",
+      "new"
+    ],
+    "filter": "Files & Folders"
+  },
+  {
+    "name": "if-folder-new-alt",
+    "tags": [
+      "folder",
+      "new",
+      "alt"
+    ],
+    "filter": "Files & Folders"
+  },
+  {
+    "name": "if-folder-open",
+    "tags": [
+      "folder",
+      "open"
+    ],
+    "filter": "Files & Folders"
+  },
+  {
+    "name": "if-folder-open-alt",
+    "tags": [
+      "folder",
+      "open",
+      "alt"
+    ],
+    "filter": "Files & Folders"
+  },
+  {
+    "name": "if-folder-alt",
+    "tags": [
+      "folder",
+      "alt"
+    ],
+    "filter": "Files & Folders"
+  },
+  {
+    "name": "if-folder-up",
+    "tags": [
+      "folder",
+      "up"
+    ],
+    "filter": "Files & Folders"
+  },
+  {
+    "name": "if-folder-vdi",
+    "tags": [
+      "folder",
+      "vdi"
+    ],
+    "filter": "Files & Folders"
+  },
+  {
+    "name": "if-copy",
+    "tags": [
+      "copy"
+    ],
+    "filter": "Editing"
+  },
+  {
+    "name": "if-cut",
+    "tags": [
+      "cut"
+    ],
+    "filter": "Editing"
+  },
+  {
+    "name": "if-save",
+    "tags": [
+      "save"
+    ],
+    "filter": "Editing"
+  },
+  {
+    "name": "if-highlight",
+    "tags": [
+      "highlight"
+    ],
+    "filter": "Design"
+  },
+  {
+    "name": "if-pen",
+    "tags": [
+      "pen"
+    ],
+    "filter": "Design"
+  },
+  {
+    "name": "if-paste",
+    "tags": [
+      "paste"
+    ],
+    "filter": "Editing"
+  },
+  {
+    "name": "if-pencil",
+    "tags": [
+      "pencil"
+    ],
+    "filter": "Design"
+  },
+  {
+    "name": "if-rename",
+    "tags": [
+      "rename"
+    ],
+    "filter": "Editing"
+  },
+  {
+    "name": "if-add-document-note",
+    "tags": [
+      "add",
+      "document",
+      "note"
+    ],
+    "filter": "Documents"
+  },
+  {
+    "name": "if-audit-report",
+    "tags": [
+      "audit",
+      "report"
+    ],
+    "filter": "Documents"
+  },
+  {
+    "name": "if-document-doc",
+    "tags": [
+      "document",
+      "doc"
+    ],
+    "filter": "Documents"
+  },
+  {
+    "name": "if-document",
+    "tags": [
+      "document"
+    ],
+    "filter": "Documents"
+  },
+  {
+    "name": "if-bulk-document",
+    "tags": [
+      "bulk",
+      "document"
+    ],
+    "filter": "Documents"
+  },
+  {
+    "name": "if-document-info",
+    "tags": [
+      "document",
+      "info"
+    ],
+    "filter": "Documents"
+  },
+  {
+    "name": "if-document-link",
+    "tags": [
+      "document",
+      "link"
+    ],
+    "filter": "Documents"
+  },
+  {
+    "name": "if-document-management",
+    "tags": [
+      "document",
+      "management"
+    ],
+    "filter": "Documents"
+  },
+  {
+    "name": "if-document-reference",
+    "tags": [
+      "document",
+      "reference"
+    ],
+    "filter": "Documents"
+  },
+  {
+    "name": "if-document-settings",
+    "tags": [
+      "document",
+      "settings"
+    ],
+    "filter": "Documents"
+  },
+  {
+    "name": "if-document-success",
+    "tags": [
+      "document",
+      "success"
+    ],
+    "filter": "Documents"
+  },
+  {
+    "name": "if-duplicate-document",
+    "tags": [
+      "duplicate",
+      "document"
+    ],
+    "filter": "Documents"
+  },
+  {
+    "name": "if-ingestion-report",
+    "tags": [
+      "ingestion",
+      "report"
+    ],
+    "filter": "Development"
+  },
+  {
+    "name": "if-log",
+    "tags": [
+      "log"
+    ],
+    "filter": "Documents"
+  },
+  {
+    "name": "if-maintenance-documents",
+    "tags": [
+      "maintenance",
+      "documents"
+    ],
+    "filter": "Status"
+  },
+  {
+    "name": "if-document-mp4",
+    "tags": [
+      "document",
+      "mp4"
+    ],
+    "filter": "Documents"
+  },
+  {
+    "name": "if-note",
+    "tags": [
+      "note"
+    ],
+    "filter": "Documents"
+  },
+  {
+    "name": "if-document-pdf",
+    "tags": [
+      "document",
+      "pdf"
+    ],
+    "filter": "Documents"
+  },
+  {
+    "name": "if-document-ppt",
+    "tags": [
+      "document",
+      "ppt"
+    ],
+    "filter": "Documents"
+  },
+  {
+    "name": "if-publish-document",
+    "tags": [
+      "publish",
+      "document"
+    ],
+    "filter": "Documents"
+  },
+  {
+    "name": "if-quality-report",
+    "tags": [
+      "quality",
+      "report"
+    ],
+    "filter": "Documents"
+  },
+  {
+    "name": "if-report-text",
+    "tags": [
+      "report",
+      "text"
+    ],
+    "filter": "Documents"
+  },
+  {
+    "name": "if-document-svg",
+    "tags": [
+      "document",
+      "svg"
+    ],
+    "filter": "Documents"
+  },
+  {
+    "name": "if-text-document",
+    "tags": [
+      "text",
+      "document"
+    ],
+    "filter": "Documents"
+  },
+  {
+    "name": "if-document-txt",
+    "tags": [
+      "document",
+      "txt"
+    ],
+    "filter": "Documents"
+  },
+  {
+    "name": "if-upload-document",
+    "tags": [
+      "upload",
+      "document"
+    ],
+    "filter": "Documents"
+  },
+  {
+    "name": "if-document-xls",
+    "tags": [
+      "document",
+      "xls"
+    ],
+    "filter": "Documents"
+  },
+  {
+    "name": "if-document-xml",
+    "tags": [
+      "document",
+      "xml"
+    ],
+    "filter": "Documents"
+  },
+  {
+    "name": "if-email",
+    "tags": [
+      "email"
+    ],
+    "filter": "Communication"
+  },
+  {
+    "name": "if-inquiry",
+    "tags": [
+      "inquiry"
+    ],
+    "filter": "Communication"
+  },
+  {
+    "name": "if-mail-inquiry",
+    "tags": [
+      "mail",
+      "inquiry"
+    ],
+    "filter": "Communication"
+  },
+  {
+    "name": "if-mail",
+    "tags": [
+      "mail"
+    ],
+    "filter": "Communication"
+  },
+  {
+    "name": "if-shout",
+    "tags": [
+      "shout"
+    ],
+    "filter": "Communication"
+  },
+  {
+    "name": "if-cloud-download-add",
+    "tags": [
+      "cloud",
+      "download",
+      "add"
+    ],
+    "filter": ""
+  },
+  {
+    "name": "if-cloud-download-list",
+    "tags": [
+      "cloud",
+      "download",
+      "list"
+    ],
+    "filter": ""
+  },
+  {
+    "name": "if-cloud-download",
+    "tags": [
+      "cloud",
+      "download"
+    ],
+    "filter": ""
+  },
+  {
+    "name": "if-cloud-new",
+    "tags": [
+      "cloud",
+      "new"
+    ],
+    "filter": ""
+  },
+  {
+    "name": "if-cloud-success",
+    "tags": [
+      "cloud",
+      "success"
+    ],
+    "filter": ""
+  },
+  {
+    "name": "if-cloud-upload",
+    "tags": [
+      "cloud",
+      "upload"
+    ],
+    "filter": ""
+  },
+  {
+    "name": "if-cloud",
+    "tags": [
+      "cloud"
+    ],
+    "filter": ""
+  },
+  {
+    "name": "if-monitor-trend",
+    "tags": [
+      "monitor",
+      "trend"
+    ],
+    "filter": "Business & Charts"
+  },
+  {
+    "name": "if-average",
+    "tags": [
+      "average"
+    ],
+    "filter": "Business & Charts"
+  },
+  {
+    "name": "if-capacity",
+    "tags": [
+      "capacity"
+    ],
+    "filter": "Business & Charts"
+  },
+  {
+    "name": "if-chart-bar",
+    "tags": [
+      "chart",
+      "bar"
+    ],
+    "filter": "Business & Charts"
+  },
+  {
+    "name": "if-chart-connector",
+    "tags": [
+      "chart",
+      "connector"
+    ],
+    "filter": "Business & Charts"
+  },
+  {
+    "name": "if-chart-cursor",
+    "tags": [
+      "chart",
+      "cursor"
+    ],
+    "filter": "Business & Charts"
+  },
+  {
+    "name": "if-chart-curve-linear",
+    "tags": [
+      "chart",
+      "curve",
+      "linear"
+    ],
+    "filter": "Business & Charts"
+  },
+  {
+    "name": "if-chart-curve-spline",
+    "tags": [
+      "chart",
+      "curve",
+      "spline"
+    ],
+    "filter": "Business & Charts"
+  },
+  {
+    "name": "if-chart-curve-stepped",
+    "tags": [
+      "chart",
+      "curve",
+      "stepped"
+    ],
+    "filter": "Business & Charts"
+  },
+  {
+    "name": "if-chart-gauge",
+    "tags": [
+      "chart",
+      "gauge"
+    ],
+    "filter": "Business & Charts"
+  },
+  {
+    "name": "if-chart-labels",
+    "tags": [
+      "chart",
+      "labels"
+    ],
+    "filter": "Business & Charts"
+  },
+  {
+    "name": "if-chart-radar",
+    "tags": [
+      "chart",
+      "radar"
+    ],
+    "filter": "Business & Charts"
+  },
+  {
+    "name": "if-chart-reportbar",
+    "tags": [
+      "chart",
+      "reportbar"
+    ],
+    "filter": "Business & Charts"
+  },
+  {
+    "name": "if-chart-reportline",
+    "tags": [
+      "chart",
+      "reportline"
+    ],
+    "filter": "Business & Charts"
+  },
+  {
+    "name": "if-pi-diagram",
+    "tags": [
+      "pi",
+      "diagram"
+    ],
+    "filter": "Business & Charts"
+  },
+  {
+    "name": "if-pie-chart",
+    "tags": [
+      "pie",
+      "chart"
+    ],
+    "filter": "Business & Charts"
+  },
+  {
+    "name": "if-polar-plot",
+    "tags": [
+      "polar",
+      "plot"
+    ],
+    "filter": "Business & Charts"
+  },
+  {
+    "name": "if-scatterplot",
+    "tags": [
+      "scatterplot"
+    ],
+    "filter": "Business & Charts"
+  },
+  {
+    "name": "if-threshold-cancelled",
+    "tags": [
+      "threshold",
+      "cancelled"
+    ],
+    "filter": "Business & Charts"
+  },
+  {
+    "name": "if-threshold-off",
+    "tags": [
+      "threshold",
+      "off"
+    ],
+    "filter": "Business & Charts"
+  },
+  {
+    "name": "if-threshold-on",
+    "tags": [
+      "threshold",
+      "on"
+    ],
+    "filter": "Business & Charts"
+  },
+  {
+    "name": "if-trend",
+    "tags": [
+      "trend"
+    ],
+    "filter": "Business & Charts"
+  },
+  {
+    "name": "if-x-axis-settings",
+    "tags": [
+      "x",
+      "axis",
+      "settings"
+    ],
+    "filter": "Business & Charts"
+  },
+  {
+    "name": "if-y-axis-settings",
+    "tags": [
+      "y",
+      "axis",
+      "settings"
+    ],
+    "filter": "Business & Charts"
+  },
+  {
+    "name": "if-audio-description-alt",
+    "tags": [
+      "audio",
+      "description",
+      "alt"
+    ],
+    "filter": "Communication"
+  },
+  {
+    "name": "if-audio-description",
+    "tags": [
+      "audio",
+      "description"
+    ],
+    "filter": "Communication"
+  },
+  {
+    "name": "if-microphone",
+    "tags": [
+      "microphone"
+    ],
+    "filter": "Communication"
+  },
+  {
+    "name": "if-pause-circle",
+    "tags": [
+      "pause",
+      "circle"
+    ],
+    "filter": "Shapes & Symbols"
+  },
+  {
+    "name": "if-pause",
+    "tags": [
+      "pause"
+    ],
+    "filter": "Miscellaneous"
+  },
+  {
+    "name": "if-play-circle",
+    "tags": [
+      "play",
+      "circle"
+    ],
+    "filter": "Shapes & Symbols"
+  },
+  {
+    "name": "if-play",
+    "tags": [
+      "play"
+    ],
+    "filter": "Miscellaneous"
+  },
+  {
+    "name": "if-radiowaves-off",
+    "tags": [
+      "radiowaves",
+      "off"
+    ],
+    "filter": "Communication"
+  },
+  {
+    "name": "if-radiowaves",
+    "tags": [
+      "radiowaves"
+    ],
+    "filter": "Communication"
+  },
+  {
+    "name": "if-skip-back",
+    "tags": [
+      "skip",
+      "back"
+    ],
+    "filter": "Miscellaneous"
+  },
+  {
+    "name": "if-skip-next",
+    "tags": [
+      "skip",
+      "next"
+    ],
+    "filter": "Miscellaneous"
+  },
+  {
+    "name": "if-sound-loud",
+    "tags": [
+      "sound",
+      "loud"
+    ],
+    "filter": "Communication"
+  },
+  {
+    "name": "if-sound-mute",
+    "tags": [
+      "sound",
+      "mute"
+    ],
+    "filter": "Communication"
+  },
+  {
+    "name": "if-sound-off",
+    "tags": [
+      "sound",
+      "off"
+    ],
+    "filter": "Communication"
+  },
+  {
+    "name": "if-sound-quiet",
+    "tags": [
+      "sound",
+      "quiet"
+    ],
+    "filter": "Communication"
+  },
+  {
+    "name": "if-stop-circle",
+    "tags": [
+      "stop",
+      "circle"
+    ],
+    "filter": "Shapes & Symbols"
+  },
+  {
+    "name": "if-stop",
+    "tags": [
+      "stop"
+    ],
+    "filter": "Miscellaneous"
+  },
+  {
+    "name": "if-waveform",
+    "tags": [
+      "waveform"
+    ],
+    "filter": "Communication"
+  },
+  {
+    "name": "if-arrow-down-right",
+    "tags": [
+      "arrow",
+      "down",
+      "right"
+    ],
+    "filter": "Arrows"
+  },
+  {
+    "name": "if-arrow-down",
+    "tags": [
+      "arrow",
+      "down"
+    ],
+    "filter": "Arrows"
+  },
+  {
+    "name": "if-arrow-left",
+    "tags": [
+      "arrow",
+      "left"
+    ],
+    "filter": "Arrows"
+  },
+  {
+    "name": "if-arrow-right",
+    "tags": [
+      "arrow",
+      "right"
+    ],
+    "filter": "Arrows"
+  },
+  {
+    "name": "if-arrow-up-left",
+    "tags": [
+      "arrow",
+      "up",
+      "left"
+    ],
+    "filter": "Arrows"
+  },
+  {
+    "name": "if-arrow-up",
+    "tags": [
+      "arrow",
+      "up"
+    ],
+    "filter": "Arrows"
+  },
+  {
+    "name": "if-chevron-down-double",
+    "tags": [
+      "chevron",
+      "down",
+      "double"
+    ],
+    "filter": "Arrows"
+  },
+  {
+    "name": "if-chevron-down-small",
+    "tags": [
+      "chevron",
+      "down",
+      "small"
+    ],
+    "filter": "Arrows"
+  },
+  {
+    "name": "if-chevron-down",
+    "tags": [
+      "chevron",
+      "down"
+    ],
+    "filter": "Arrows"
+  },
+  {
+    "name": "if-chevron-left-double",
+    "tags": [
+      "chevron",
+      "left",
+      "double"
+    ],
+    "filter": "Arrows"
+  },
+  {
+    "name": "if-chevron-left-small",
+    "tags": [
+      "chevron",
+      "left",
+      "small"
+    ],
+    "filter": "Arrows"
+  },
+  {
+    "name": "if-chevron-left",
+    "tags": [
+      "chevron",
+      "left"
+    ],
+    "filter": "Arrows"
+  },
+  {
+    "name": "if-chevron-right-double",
+    "tags": [
+      "chevron",
+      "right",
+      "double"
+    ],
+    "filter": "Arrows"
+  },
+  {
+    "name": "if-chevron-right-small",
+    "tags": [
+      "chevron",
+      "right",
+      "small"
+    ],
+    "filter": "Arrows"
+  },
+  {
+    "name": "if-chevron-right",
+    "tags": [
+      "chevron",
+      "right"
+    ],
+    "filter": "Arrows"
+  },
+  {
+    "name": "if-chevron-up-double",
+    "tags": [
+      "chevron",
+      "up",
+      "double"
+    ],
+    "filter": "Arrows"
+  },
+  {
+    "name": "if-chevron-up-small",
+    "tags": [
+      "chevron",
+      "up",
+      "small"
+    ],
+    "filter": "Arrows"
+  },
+  {
+    "name": "if-chevron-up",
+    "tags": [
+      "chevron",
+      "up"
+    ],
+    "filter": "Arrows"
+  },
+  {
+    "name": "if-download-add",
+    "tags": [
+      "download",
+      "add"
+    ],
+    "filter": "Editing"
+  },
+  {
+    "name": "if-download-list",
+    "tags": [
+      "download",
+      "list"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-download",
+    "tags": [
+      "download"
+    ],
+    "filter": "Miscellaneous"
+  },
+  {
+    "name": "if-export",
+    "tags": [
+      "export"
+    ],
+    "filter": "Arrows"
+  },
+  {
+    "name": "if-goto",
+    "tags": [
+      "goto"
+    ],
+    "filter": "Arrows"
+  },
+  {
+    "name": "if-import",
+    "tags": [
+      "import"
+    ],
+    "filter": "Arrows"
+  },
+  {
+    "name": "if-limit-lower",
+    "tags": [
+      "limit",
+      "lower"
+    ],
+    "filter": "Arrows"
+  },
+  {
+    "name": "if-limit-upper",
+    "tags": [
+      "limit",
+      "upper"
+    ],
+    "filter": "Arrows"
+  },
+  {
+    "name": "if-repeat",
+    "tags": [
+      "repeat"
+    ],
+    "filter": "Arrows"
+  },
+  {
+    "name": "if-swap",
+    "tags": [
+      "swap"
+    ],
+    "filter": "Arrows"
+  },
+  {
+    "name": "if-add",
+    "tags": [
+      "add"
+    ],
+    "filter": "Editing"
+  },
+  {
+    "name": "if-add-circle",
+    "tags": [
+      "add",
+      "circle"
+    ],
+    "filter": "Editing"
+  },
+  {
+    "name": "if-addeye",
+    "tags": [
+      "addeye"
+    ],
+    "filter": "Editing"
+  },
+  {
+    "name": "if-analyze",
+    "tags": [
+      "analyze"
+    ],
+    "filter": "Editing"
+  },
+  {
+    "name": "if-attach",
+    "tags": [
+      "attach"
+    ],
+    "filter": "Editing"
+  },
+  {
+    "name": "if-attachment-upload",
+    "tags": [
+      "attachment",
+      "upload"
+    ],
+    "filter": "Editing"
+  },
+  {
+    "name": "if-cancel",
+    "tags": [
+      "cancel"
+    ],
+    "filter": "Editing"
+  },
+  {
+    "name": "if-clear",
+    "tags": [
+      "clear"
+    ],
+    "filter": "Editing"
+  },
+  {
+    "name": "if-close",
+    "tags": [
+      "close"
+    ],
+    "filter": "Editing"
+  },
+  {
+    "name": "if-close-small",
+    "tags": [
+      "close",
+      "small"
+    ],
+    "filter": "Editing"
+  },
+  {
+    "name": "if-combine",
+    "tags": [
+      "combine"
+    ],
+    "filter": "Editing"
+  },
+  {
+    "name": "if-duplicate",
+    "tags": [
+      "duplicate"
+    ],
+    "filter": "Editing"
+  },
+  {
+    "name": "if-eye-cancelled",
+    "tags": [
+      "eye",
+      "cancelled"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-group",
+    "tags": [
+      "group"
+    ],
+    "filter": "Editing"
+  },
+  {
+    "name": "if-link",
+    "tags": [
+      "link"
+    ],
+    "filter": "Editing"
+  },
+  {
+    "name": "if-minus",
+    "tags": [
+      "minus"
+    ],
+    "filter": "Editing"
+  },
+  {
+    "name": "if-mix",
+    "tags": [
+      "mix"
+    ],
+    "filter": "Editing"
+  },
+  {
+    "name": "if-mouseclick",
+    "tags": [
+      "mouseclick"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-mouseselect",
+    "tags": [
+      "mouseselect"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-openexternal",
+    "tags": [
+      "openexternal"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-openfile",
+    "tags": [
+      "openfile"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-optimize",
+    "tags": [
+      "optimize"
+    ],
+    "filter": "Editing"
+  },
+  {
+    "name": "if-pan",
+    "tags": [
+      "pan"
+    ],
+    "filter": "Design"
+  },
+  {
+    "name": "if-pin",
+    "tags": [
+      "pin"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-plus",
+    "tags": [
+      "plus"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-pointup",
+    "tags": [
+      "pointup"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-print",
+    "tags": [
+      "print"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-publish",
+    "tags": [
+      "publish"
+    ],
+    "filter": "Documents"
+  },
+  {
+    "name": "if-random",
+    "tags": [
+      "random"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-redo",
+    "tags": [
+      "redo"
+    ],
+    "filter": "Editing"
+  },
+  {
+    "name": "if-refresh",
+    "tags": [
+      "refresh"
+    ],
+    "filter": "Editing"
+  },
+  {
+    "name": "if-refresh-cancelled",
+    "tags": [
+      "refresh",
+      "cancelled"
+    ],
+    "filter": "Editing"
+  },
+  {
+    "name": "if-reload",
+    "tags": [
+      "reload"
+    ],
+    "filter": "Editing"
+  },
+  {
+    "name": "if-remove-eye",
+    "tags": [
+      "remove",
+      "eye"
+    ],
+    "filter": "Editing"
+  },
+  {
+    "name": "if-reset",
+    "tags": [
+      "reset"
+    ],
+    "filter": "Editing"
+  },
+  {
+    "name": "if-sort",
+    "tags": [
+      "sort"
+    ],
+    "filter": "Arrows"
+  },
+  {
+    "name": "if-sort-ascending",
+    "tags": [
+      "sort",
+      "ascending"
+    ],
+    "filter": "Arrows"
+  },
+  {
+    "name": "if-sort-descending",
+    "tags": [
+      "sort",
+      "descending"
+    ],
+    "filter": "Arrows"
+  },
+  {
+    "name": "if-star-add",
+    "tags": [
+      "star",
+      "add"
+    ],
+    "filter": "Editing"
+  },
+  {
+    "name": "if-star-cancelled",
+    "tags": [
+      "star",
+      "cancelled"
+    ],
+    "filter": "Editing"
+  },
+  {
+    "name": "if-start-dataanalysis",
+    "tags": [
+      "start",
+      "dataanalysis"
+    ],
+    "filter": "Development"
+  },
+  {
+    "name": "if-be-published",
+    "tags": [
+      "be",
+      "published"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-to-search",
+    "tags": [
+      "to",
+      "search"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-touch",
+    "tags": [
+      "touch"
+    ],
+    "filter": "UI & Interface"
+  },
+  {
+    "name": "if-trashcan",
+    "tags": [
+      "trashcan"
+    ],
+    "filter": "Editing"
+  },
+  {
+    "name": "if-undo",
+    "tags": [
+      "undo"
+    ],
+    "filter": "Editing"
+  },
+  {
+    "name": "if-ungroup",
+    "tags": [
+      "ungroup"
+    ],
+    "filter": "Editing"
+  },
+  {
+    "name": "if-upload",
+    "tags": [
+      "upload"
+    ],
+    "filter": "Documents"
+  },
+  {
+    "name": "if-uploadsuccess",
+    "tags": [
+      "uploadsuccess"
+    ],
+    "filter": "Documents"
+  },
+  {
+    "name": "if-windows-xp",
+    "tags": [
+      "windows",
+      "xp"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-windows-11",
+    "tags": [
+      "windows",
+      "11"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-windows-10",
+    "tags": [
+      "windows",
+      "10"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-safari",
+    "tags": [
+      "safari"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-opera",
+    "tags": [
+      "opera"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-linux",
+    "tags": [
+      "linux"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-ie",
+    "tags": [
+      "ie"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-firefox-alt",
+    "tags": [
+      "firefox",
+      "alt"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-firefox",
+    "tags": [
+      "firefox"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-edge",
+    "tags": [
+      "edge"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-chrome",
+    "tags": [
+      "chrome"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-brave",
+    "tags": [
+      "brave"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-visa",
+    "tags": [
+      "visa"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-paypal",
+    "tags": [
+      "paypal"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-mastercard",
+    "tags": [
+      "mastercard"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-discover",
+    "tags": [
+      "discover"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-apple-pay",
+    "tags": [
+      "apple",
+      "pay"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-amex",
+    "tags": [
+      "amex"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-zoom",
+    "tags": [
+      "zoom"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-zillow",
+    "tags": [
+      "zillow"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-ytmusic",
+    "tags": [
+      "ytmusic"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-yahoo",
+    "tags": [
+      "yahoo"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-xbox",
+    "tags": [
+      "xbox"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-wish",
+    "tags": [
+      "wish"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-wendys",
+    "tags": [
+      "wendys"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-vlc",
+    "tags": [
+      "vlc"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-venmo",
+    "tags": [
+      "venmo"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name":"if-tinder",
+    "tags": [
+      "tinder"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-tidal",
+    "tags": [
+      "tidal"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-tesla",
+    "tags": [
+      "tesla"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-steam",
+    "tags": [
+      "steam"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-starbucks",
+    "tags": [
+      "starbucks"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-square",
+    "tags": [
+      "square"
+    ],
+    "filter": "Shapes & Symbols"
+  },
+  {
+    "name": "if-sprite",
+    "tags": [
+      "sprite"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-spotify",
+    "tags": [
+      "spotify"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-soundcloud",
+    "tags": [
+      "soundcloud"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-skype",
+    "tags": [
+      "skype"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-rss",
+    "tags": [
+      "rss"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-playstation",
+    "tags": [
+      "playstation"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-origin",
+    "tags": [
+      "origin"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-oracle",
+    "tags": [
+      "oracle"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-of",
+    "tags": [
+      "of"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-nzxt",
+    "tags": [
+      "nzxt"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-nike",
+    "tags": [
+      "nike"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-music",
+    "tags": [
+      "music"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-mcdonalds",
+    "tags": [
+      "mcdonalds"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-lyft",
+    "tags": [
+      "lyft"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-logitech",
+    "tags": [
+      "logitech"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-logi",
+    "tags": [
+      "logi"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-lg",
+    "tags": [
+      "lg"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-lego",
+    "tags": [
+      "lego"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-jordan",
+    "tags": [
+      "jordan"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-ios",
+    "tags": [
+      "ios"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-ibm",
+    "tags": [
+      "ibm"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-hp",
+    "tags": [
+      "hp"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-hollister",
+    "tags": [
+      "hollister"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-hinge",
+    "tags": [
+      "hinge"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-hellofresh",
+    "tags": [
+      "hellofresh"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-handm",
+    "tags": [
+      "handm"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-gucci",
+    "tags": [
+      "gucci"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-google-pay",
+    "tags": [
+      "google",
+      "pay"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-google",
+    "tags": [
+      "google"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-ge",
+    "tags": [
+      "ge"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-figma",
+    "tags": [
+      "figma"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-etsy",
+    "tags": [
+      "etsy"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-electron",
+    "tags": [
+      "electron"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-ebay",
+    "tags": [
+      "ebay"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-ea",
+    "tags": [
+      "ea"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-dell",
+    "tags": [
+      "dell"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-cocacola",
+    "tags": [
+      "cocacola"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-cnn",
+    "tags": [
+      "cnn"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-cloudflare",
+    "tags": [
+      "cloudflare"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-cat",
+    "tags": [
+      "cat"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-canva",
+    "tags": [
+      "canva"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-burgerking",
+    "tags": [
+      "burgerking"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-blender",
+    "tags": [
+      "blender"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-blackberry",
+    "tags": [
+      "blackberry"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-aws",
+    "tags": [
+      "aws"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-asus",
+    "tags": [
+      "asus"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-aseprite",
+    "tags": [
+      "aseprite"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-apple",
+    "tags": [
+      "apple"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-android",
+    "tags": [
+      "android"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-amd",
+    "tags": [
+      "amd"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-amazonmusic",
+    "tags": [
+      "amazonmusic"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-amazon",
+    "tags": [
+      "amazon"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-aircanada",
+    "tags": [
+      "aircanada"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-airbnb",
+    "tags": [
+      "airbnb"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-americaneagle",
+    "tags": [
+      "americaneagle"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-adobe",
+    "tags": [
+      "adobe"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-adidas",
+    "tags": [
+      "adidas"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-telegram",
+    "tags": [
+      "telegram"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-trello",
+    "tags": [
+      "trello"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-slack",
+    "tags": [
+      "slack"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-wechat",
+    "tags": [
+      "wechat"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-myspace",
+    "tags": [
+      "myspace"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-bebo",
+    "tags": [
+      "bebo"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-messenger",
+    "tags": [
+      "messenger"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-pinterest",
+    "tags": [
+      "pinterest"
+    ],
+    "filter": "Social"
+  },
+  {
+    "name": "if-discord",
+    "tags": [
+      "discord"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-digg",
+    "tags": [
+      "digg"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-stumbleupon",
+    "tags": [
+      "stumbleupon"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-linkedin",
+    "tags": [
+      "linkedin"
+    ],
+    "filter": "Social"
+  },
+  {
+    "name": "if-medium",
+    "tags": [
+      "medium"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-tiktok",
+    "tags": [
+      "tiktok"
+    ],
+    "filter": "Social"
+  },
+  {
+    "name": "if-flickr",
+    "tags": [
+      "flickr"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-dribbble",
+    "tags": [
+      "dribbble"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-deviantart",
+    "tags": [
+      "deviantart"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-behance",
+    "tags": [
+      "behance"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-wordpress",
+    "tags": [
+      "wordpress"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-reddit",
+    "tags": [
+      "reddit"
+    ],
+    "filter": "Social"
+  },
+  {
+    "name": "if-stackoverflow",
+    "tags": [
+      "stackoverflow"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-snapchat",
+    "tags": [
+      "snapchat"
+    ],
+    "filter": "Social"
+  },
+  {
+    "name": "if-twitch",
+    "tags": [
+      "twitch"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-tumblr",
+    "tags": [
+      "tumblr"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-youtube",
+    "tags": [
+      "youtube"
+    ],
+    "filter": "Social"
+  },
+  {
+    "name": "if-x",
+    "tags": [
+      "x"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-whatsapp",
+    "tags": [
+      "whatsapp"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-threads",
+    "tags": [
+      "threads"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-instagram",
+    "tags": [
+      "instagram"
+    ],
+    "filter": "Social"
+  },
+  {
+    "name": "if-facebook",
+    "tags": [
+      "facebook"
+    ],
+    "filter": "Social"
+  },
+  {
+    "name": "if-vmware",
+    "tags": [
+      "vmware"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-npm",
+    "tags": [
+      "npm"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-nuxtjs",
+    "tags": [
+      "nuxtjs"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-nextjs",
+    "tags": [
+      "nextjs"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-haskell",
+    "tags": [
+      "haskell"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-solidity",
+    "tags": [
+      "solidity"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-ionic",
+    "tags": [
+      "ionic"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-bitbucket",
+    "tags": [
+      "bitbucket"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-webgl",
+    "tags": [
+      "webgl"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-graphql",
+    "tags": [
+      "graphql"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-jupyter",
+    "tags": [
+      "jupyter"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-webhook",
+    "tags": [
+      "webhook"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-redux",
+    "tags": [
+      "redux"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-sass",
+    "tags": [
+      "sass"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-terraform",
+    "tags": [
+      "terraform"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-docker",
+    "tags": [
+      "docker"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-bootstrap",
+    "tags": [
+      "bootstrap"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-django",
+    "tags": [
+      "django"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-gitlab",
+    "tags": [
+      "gitlab"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-github",
+    "tags": [
+      "github"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-git",
+    "tags": [
+      "git"
+    ],
+    "filter": "Development"
+  },
+  {
+    "name": "if-nodejs",
+    "tags": [
+      "nodejs"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-sqlite",
+    "tags": [
+      "sqlite"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-postgresql",
+    "tags": [
+      "postgresql"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-mysql",
+    "tags": [
+      "mysql"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-golang",
+    "tags": [
+      "golang"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-rust",
+    "tags": [
+      "rust"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-dart",
+    "tags": [
+      "dart"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-flask",
+    "tags": [
+      "flask"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-python",
+    "tags": [
+      "python"
+    ],
+    "filter": "Development"
+  },
+  {
+    "name": "if-express",
+    "tags": [
+      "express"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-lua",
+    "tags": [
+      "lua"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-ruby",
+    "tags": [
+      "ruby"
+    ],
+    "filter": "Development"
+  },
+  {
+    "name": "if-php",
+    "tags": [
+      "php"
+    ],
+    "filter": "Development"
+  },
+  {
+    "name": "if-kotlin",
+    "tags": [
+      "kotlin"
+    ],
+    "filter": "Development"
+  },
+  {
+    "name": "if-flutter",
+    "tags": [
+      "flutter"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-swift",
+    "tags": [
+      "swift"
+    ],
+    "filter": "Development"
+  },
+  {
+    "name": "if-java",
+    "tags": [
+      "java"
+    ],
+    "filter": "Development"
+  },
+  {
+    "name": "if-react",
+    "tags": [
+      "react"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-angularjs",
+    "tags": [
+      "angularjs"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-jquery",
+    "tags": [
+      "jquery"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-vuejs",
+    "tags": [
+      "vuejs"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-typescript",
+    "tags": [
+      "typescript"
+    ],
+    "filter": "Development"
+  },
+  {
+    "name": "if-csharp",
+    "tags": [
+      "csharp"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-cpp",
+    "tags": [
+      "cpp"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-c",
+    "tags": [
+      "c"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-tailwind",
+    "tags": [
+      "tailwind", "css"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-javascript",
+    "tags": [
+      "javascript"
+    ],
+    "filter": "Development"
+  },
+  {
+    "name": "if-css",
+    "tags": [
+      "css"
+    ],
+    "filter": "Development"
+  },
+  {
+    "name": "if-html",
+    "tags": [
+      "html"
+    ],
+    "filter": "Development"
+  },
+  {
+    "name": "if-iconforge",
+    "tags": [
+      "iconforge"
+    ],
+    "filter": "Brands & Logos"
+  },
+  {
+    "name": "if-iconforge-alt",
+    "tags": [
+      "iconforge",
+      "alt"
+    ],
+    "filter": "Brands & Logos"
+  }
+]
