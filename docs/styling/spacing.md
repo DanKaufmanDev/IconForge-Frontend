@@ -1,44 +1,79 @@
 # Spacing
 
-IconForge provides margin and padding utilities.
+Spacing is fundamental to creating clean, readable layouts. These utilities control the `margin` and `padding` of elements. The classes use a consistent formula:
 
-### Margin
+`is-{property}{direction}-{size}`
 
-**Class format:** `is-m{direction}-{size}`
+- **Property:** `m` for `margin` or `p` for `padding`.
+- **Direction:** `t` (top), `b` (bottom), `l` (left), `r` (right), `x` (horizontal), `y` (vertical), or blank for all sides.
+- **Size:** A number from the spacing scale (or `auto`).
 
-*   `m` - margin on all sides
-*   `mt` - margin-top
-*   `mr` - margin-right
-*   `mb` - margin-bottom
-*   `ml` - margin-left
-*   `mx` - margin-left and margin-right
-*   `my` - margin-top and margin-bottom
+## Margin
 
-**Sizes:** `auto`, `1-10`
+Use margin utilities to create space *outside* of an element, pushing other elements away.
 
-### Padding
+### Directional Margin
 
-**Class format:** `is-p{direction}-{size}`
+| Class Prefix | CSS Property | 
+| --- | --- |
+| `is-m-*` | `margin` |
+| `is-mt-*` | `margin-top` |
+| `is-mr-*` | `margin-right` |
+| `is-mb-*` | `margin-bottom` |
+| `is-ml-*` | `margin-left` |
+| `is-mx-*` | `margin-left` & `margin-right` |
+| `is-my-*` | `margin-top` & `margin-bottom` |
 
-*   `p` - padding on all sides
-*   `pt` - padding-top
-*   `pr` - padding-right
-*   `pb` - padding-bottom
-*   `pl` - padding-left
-*   `px` - padding-left and padding-right
-*   `py` - padding-top and padding-bottom
+### Centering an Element
 
-**Sizes:** `auto`, `1-10`
+To center a block-level element with a defined width, use `is-mx-auto`.
 
-### Arbitrary Values
-
-> **Note:** Arbitrary values are supported for all spacing utilities.
-
-You can also use arbitrary spacing values using the following syntax:
-
-**Class format:** `is-{m|p}{direction}-[{value}]`
-
-**Example:**
 ```html
-<i class="if-heart is-m-[10px]"></i>
+<div class="is-w-half is-mx-auto is-bg-blue-2 is-p-4">
+  This div is centered.
+</div>
 ```
+
+## Padding
+
+Use padding utilities to create space *inside* of an element, between its border and its content.
+
+### Directional Padding
+
+| Class Prefix | CSS Property | 
+| --- | --- |
+| `is-p-*` | `padding` |
+| `is-pt-*` | `padding-top` |
+| `is-pr-*` | `padding-right` |
+| `is-pb-*` | `padding-bottom` |
+| `is-pl-*` | `padding-left` |
+| `is-px-*` | `padding-left` & `padding-right` |
+| `is-py-*` | `padding-top` & `padding-bottom` |
+
+**Example:** Creating a button with horizontal and vertical padding.
+```html
+<button class="is-bg-blue-5 is-color-white is-px-6 is-py-3 is-rounded-lg">
+  Click Me
+</button>
+```
+
+## Spacing Scale
+
+Both margin and padding utilities use the same numeric scale.
+
+| Size | CSS Value | 
+| --- | --- |
+| `auto` | `auto` |
+| `1` | `0.25rem` (4px) |
+| `2` | `0.5rem` (8px) |
+| `3` | `0.75rem` (12px) |
+| `4` | `1rem` (16px) |
+| `5` | `1.25rem` (20px) |
+| `6` | `1.5rem` (24px) |
+| `7` | `1.75rem` (28px) |
+| `8` | `2rem` (32px) |
+| `9` | `2.25rem` (36px) |
+| `10` | `2.5rem` (40px) |
+
+> [!TIP]
+> Arbitrary values are also supported. For example, to get a top margin of 50px, you can use the class `is-mt-[50px]`.

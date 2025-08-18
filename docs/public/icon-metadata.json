@@ -4239,7 +4239,7 @@
     "filter": "Brands & Logos"
   },
   {
-    "name": "if-tailwind",
+    "name": "if-tailwindcss",
     "tags": [
       "tailwind", "css"
     ],

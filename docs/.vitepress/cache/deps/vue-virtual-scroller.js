@@ -26,7 +26,7 @@ import {
   withCtx,
   withDirectives,
   withScopeId
-} from "./chunk-EAEFJUV4.js";
+} from "./chunk-HVR2FF6M.js";
 
 // node_modules/vue-resize/dist/vue-resize.esm.js
 function getInternetExplorerVersion() {

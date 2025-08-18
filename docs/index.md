@@ -11,7 +11,7 @@ hero:
       link: /general/getting-started
     - theme: alt
       text: Docs
-      link: /styling/state-and-responsive-prefixes
+      link: /styling/colors
     - theme: alt
       text: Playground
       link: /playground
