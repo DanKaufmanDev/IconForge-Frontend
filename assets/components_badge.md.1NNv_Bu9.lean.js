@@ -1,0 +1,5 @@
+import{_ as a,I as o,c as n,o as r,j as e,a as i,J as l}from"./chunks/framework.DuYXm8Z9.js";const x=JSON.parse('{"title":"Badges","description":"","frontmatter":{"aside":false},"headers":[],"relativePath":"components/badge.md","filePath":"components/badge.md"}'),d={name:"components/badge.md"},p={style:{display:"flex","flex-direction":"row","flex-wrap":"wrap",gap:"1rem"}};function c(m,s,f,g,b,u){const t=o("ComponentPreview");return r(),n("div",null,[s[0]||(s[0]=e("h1",{id:"badges",tabindex:"-1"},[i("Badges "),e("a",{class:"header-anchor",href:"#badges","aria-label":"Permalink to “Badges”"},"​")],-1)),s[1]||(s[1]=e("div",{class:"important custom-block github-alert"},[e("p",{class:"custom-block-title"},"IMPORTANT"),e("p",null,"IconForge must be installed for the components to render.")],-1)),e("div",p,[l(t,{snippet:`
+<span class='is-inline-block is-bg-green-5 is-color-white is-rounded-full is-size-xs is-px-[0.5rem] is-py-[0.15rem]'>
+  New
+</span>
+`})])])}const h=a(d,[["render",c]]);export{x as __pageData,h as default};
