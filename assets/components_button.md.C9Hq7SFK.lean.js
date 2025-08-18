@@ -1,0 +1,5 @@
+import{_ as s,I as n,c as a,o as r,j as e,a as i,J as l}from"./chunks/framework.D1pnFkAx.js";const h=JSON.parse('{"title":"Buttons","description":"","frontmatter":{"aside":false},"headers":[],"relativePath":"components/button.md","filePath":"components/button.md"}'),c={name:"components/button.md"},d={style:{display:"flex","flex-direction":"row","flex-wrap":"wrap",gap:"1rem"}};function m(p,t,u,b,f,_){const o=n("ComponentPreview");return r(),a("div",null,[t[0]||(t[0]=e("h1",{id:"buttons",tabindex:"-1"},[i("Buttons "),e("a",{class:"header-anchor",href:"#buttons","aria-label":"Permalink to “Buttons”"},"​")],-1)),t[1]||(t[1]=e("div",{class:"important custom-block github-alert"},[e("p",{class:"custom-block-title"},"IMPORTANT"),e("p",null,"IconForge must be installed for the components to render.")],-1)),e("div",d,[l(o,{snippet:`
+<button class='is-px-[1rem] is-py-[0.5rem] is-bg-blue-6 hover:is-bg-blue-7 is-color-white is-rounded-sm is-size-md is-inline-flex is-items-center'>
+  Download <i class='if-download is-ml-[0.35rem]'></i>
+</button>
+`})])])}const v=s(c,[["render",m]]);export{h as __pageData,v as default};
