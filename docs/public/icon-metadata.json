@@ -4,35 +4,35 @@
     "tags": [
       "drop"
     ],
-    "filter": ""
+    "filter": "Misc"
   },
   {
     "name": "if-earth",
     "tags": [
       "earth"
     ],
-    "filter": ""
+    "filter": "Misc"
   },
   {
     "name": "if-globe",
     "tags": [
       "globe"
     ],
-    "filter": ""
+    "filter": "Misc"
   },
   {
     "name": "if-snowflake",
     "tags": [
       "snowflake"
     ],
-    "filter": ""
+    "filter": "Misc"
   },
   {
     "name": "if-sun",
     "tags": [
       "sun"
     ],
-    "filter": ""
+    "filter": "Misc"
   },
   {
     "name": "if-contactdetails",
@@ -46,84 +46,84 @@
     "tags": [
       "user"
     ],
-    "filter": "People"
+    "filter": "Communication"
   },
   {
     "name": "if-usercheck",
     "tags": [
       "usercheck"
     ],
-    "filter": "People"
+    "filter": "Communication"
   },
   {
     "name": "if-usermanagement",
     "tags": [
       "usermanagement"
     ],
-    "filter": "People"
+    "filter": "Communication"
   },
   {
     "name": "if-userprofile",
     "tags": [
       "userprofile"
     ],
-    "filter": "People"
+    "filter": "Communication"
   },
   {
     "name": "if-usersettings",
     "tags": [
       "usersettings"
     ],
-    "filter": "People"
+    "filter": "Communication"
   },
   {
     "name": "if-about",
     "tags": [
-      "about"
+      "about","info"
     ],
-    "filter": "Shapes & Symbols"
+    "filter": "Symbols & Status"
   },
   {
     "name": "if-addtask",
     "tags": [
       "addtask"
     ],
-    "filter": "UI & Interface"
+    "filter": "Interface"
   },
   {
     "name": "if-addtasklist",
     "tags": [
       "addtasklist"
     ],
-    "filter": "UI & Interface"
+    "filter": "Interface"
   },
   {
     "name": "if-appmenu",
     "tags": [
-      "appmenu"
+      "appmenu","hamburger","bars","menu"
     ],
-    "filter": "UI & Interface"
+    "filter": "Interface"
   },
   {
     "name": "if-apps",
     "tags": [
-      "apps"
+      "apps","dots","menu"
     ],
-    "filter": "UI & Interface"
+    "filter": "Interface"
   },
   {
     "name": "if-cardlayout",
     "tags": [
       "cardlayout"
     ],
-    "filter": "UI & Interface"
+    "filter": "Misc"
   },
   {
     "name": "if-checkbox",
     "tags": [
       "checkbox"
     ],
-    "filter": "UI & Interface"
+    "filter": "Symbols & Status"
   },
   {
     "name": "if-checkbox-checked",
@@ -131,7 +131,7 @@
       "checkbox",
       "checked"
     ],
-    "filter": "UI & Interface"
+    "filter": "Symbols & Status"
   },
   {
     "name": "if-checkbox-mixed",
@@ -139,7 +139,7 @@
       "checkbox",
       "mixed"
     ],
-    "filter": "UI & Interface"
+    "filter": "Symbols & Status"
   },
   {
     "name": "if-checkbox-unchecked",
@@ -147,350 +147,350 @@
       "checkbox",
       "unchecked"
     ],
-    "filter": "UI & Interface"
+    "filter": "Symbols & Status"
   },
   {
     "name": "if-checkboxes",
     "tags": [
       "checkboxes"
     ],
-    "filter": "UI & Interface"
+    "filter": "Symbols & Status"
   },
   {
     "name": "if-clearfilter",
     "tags": [
       "clearfilter"
     ],
-    "filter": "UI & Interface"
+    "filter": "Interface"
   },
   {
     "name": "if-contextmenu",
     "tags": [
-      "contextmenu"
+      "contextmenu","dots"
     ],
-    "filter": "UI & Interface"
+    "filter": "Interface"
   },
   {
     "name": "if-details",
     "tags": [
       "details"
     ],
-    "filter": "UI & Interface"
+    "filter": "Communication"
   },
   {
     "name": "if-filter",
     "tags": [
       "filter"
     ],
-    "filter": "UI & Interface"
+    "filter": "Interface"
   },
   {
     "name": "if-filteroutline",
     "tags": [
       "filteroutline"
     ],
-    "filter": "UI & Interface"
+    "filter": "Interface"
   },
   {
     "name": "if-fullscreeen",
     "tags": [
       "fullscreeen"
     ],
-    "filter": "UI & Interface"
+    "filter": "Media Control"
   },
   {
     "name": "if-fullscreeenexit",
     "tags": [
       "fullscreeenexit"
     ],
-    "filter": "UI & Interface"
+    "filter": "Media Control"
   },
   {
     "name": "if-hierarchy",
     "tags": [
       "hierarchy"
     ],
-    "filter": "UI & Interface"
+    "filter": "Interface"
   },
   {
     "name": "if-info",
     "tags": [
       "info"
     ],
-    "filter": "Shapes & Symbols"
+    "filter": "Symbols & Status"
   },
   {
     "name": "if-infofeed",
     "tags": [
       "infofeed"
     ],
-    "filter": "UI & Interface"
+    "filter": "Symbols & Status"
   },
   {
     "name": "if-itemdetails",
     "tags": [
       "itemdetails"
     ],
-    "filter": "UI & Interface"
+    "filter": "Symbols & Status"
   },
   {
     "name": "if-label",
     "tags": [
       "label"
     ],
-    "filter": "UI & Interface"
+    "filter": ["Interface","Symbols & Status"]
   },
   {
     "name": "if-layers",
     "tags": [
       "layers"
     ],
-    "filter": "UI & Interface"
+    "filter": "Interface"
   },
   {
     "name": "if-list",
     "tags": [
       "list"
     ],
-    "filter": "UI & Interface"
+    "filter": "Interface"
   },
   {
     "name": "if-maximize",
     "tags": [
       "maximize"
     ],
-    "filter": "UI & Interface"
+    "filter": "Media Control"
   },
   {
     "name": "if-minimize",
     "tags": [
       "minimize"
     ],
-    "filter": "UI & Interface"
+    "filter": "Media Control"
   },
   {
     "name": "if-moremenu",
     "tags": [
-      "moremenu"
+      "moremenu","dots"
     ],
-    "filter": "UI & Interface"
+    "filter": "Interface"
   },
   {
     "name": "if-newindicator",
     "tags": [
-      "newindicator"
+      "newindicator","add"
     ],
-    "filter": "UI & Interface"
+    "filter": "Interface"
   },
   {
     "name": "if-nofilter",
     "tags": [
       "nofilter"
     ],
-    "filter": "UI & Interface"
+    "filter": "Interface"
   },
   {
     "name": "if-question",
     "tags": [
       "question"
     ],
-    "filter": "Shapes & Symbols"
+    "filter": ["Interface","Symbols & Status"]
   },
   {
     "name": "if-search",
     "tags": [
-      "search"
+      "search","magnifying","glass"
     ],
-    "filter": "UI & Interface"
+    "filter": "Interface"
   },
   {
     "name": "if-splithorizontally",
     "tags": [
-      "splithorizontally"
+      "splithorizontally","window"
     ],
-    "filter": "UI & Interface"
+    "filter": "Actions"
   },
   {
     "name": "if-splitvertically",
     "tags": [
-      "splitvertically"
+      "splitvertically","window"
     ],
-    "filter": "UI & Interface"
+    "filter": "Actions"
   },
   {
     "name": "if-star",
     "tags": [
       "star"
     ],
-    "filter": ""
+    "filter": "Objects"
   },
   {
     "name": "if-starlist",
     "tags": [
-      "starlist"
+      "starlist","favorite","favourite"
     ],
-    "filter": "UI & Interface"
+    "filter": "Interface"
   },
   {
     "name": "if-table",
     "tags": [
       "table"
     ],
-    "filter": "Business & Charts"
+    "filter": ["Objects", "Business & Finance"]
   },
   {
     "name": "if-tablecolumns",
     "tags": [
       "tablecolumns"
     ],
-    "filter": "Business & Charts"
+    "filter": ["Objects", "Business & Finance"]
   },
   {
     "name": "if-tablerows",
     "tags": [
       "tablerows"
     ],
-    "filter": "Business & Charts"
+    "filter": ["Objects", "Business & Finance"]
   },
   {
     "name": "if-tablesettings",
     "tags": [
       "tablesettings"
     ],
-    "filter": "Business & Charts"
+    "filter": ["Objects", "Business & Finance"]
   },
   {
     "name": "if-tag",
     "tags": [
       "tag"
     ],
-    "filter": "UI & Interface"
+    "filter": "Interface"
   },
   {
     "name": "if-tasksall",
     "tags": [
       "tasksall"
     ],
-    "filter": "UI & Interface"
+    "filter": "Interface"
   },
   {
     "name": "if-tasksdone",
     "tags": [
       "tasksdone"
     ],
-    "filter": "UI & Interface"
+    "filter": "Interface"
   },
   {
     "name": "if-tasksopen",
     "tags": [
       "tasksopen"
     ],
-    "filter": "UI & Interface"
+    "filter": "Interface"
   },
   {
     "name": "if-topic",
     "tags": [
       "topic"
     ],
-    "filter": "UI & Interface"
+    "filter": "Interface"
   },
   {
     "name": "if-tree",
     "tags": [
       "tree"
     ],
-    "filter": "UI & Interface"
+    "filter": "Interface"
   },
   {
     "name": "if-zoomin",
     "tags": [
       "zoomin"
     ],
-    "filter": "UI & Interface"
+    "filter": "Media Control"
   },
   {
     "name": "if-zoomout",
     "tags": [
       "zoomout"
     ],
-    "filter": "UI & Interface"
+    "filter": "Media Control"
   },
   {
     "name": "if-zoomselection",
     "tags": [
       "zoomselection"
     ],
-    "filter": "UI & Interface"
+    "filter": "Media Control"
   },
   {
     "name": "if-alarmclock",
     "tags": [
       "alarmclock"
     ],
-    "filter": "Time & Date"
+    "filter": "Objects"
   },
   {
     "name": "if-calendar",
     "tags": [
       "calendar"
     ],
-    "filter": "Time & Date"
+    "filter": "Objects"
   },
   {
     "name": "if-calendarsettings",
     "tags": [
       "calendarsettings"
     ],
-    "filter": "Time & Date"
+    "filter": "Objects"
   },
   {
     "name": "if-clock",
     "tags": [
       "clock"
     ],
-    "filter": "Time & Date"
+    "filter": ["Objects", "Misc"]
   },
   {
     "name": "if-history",
     "tags": [
       "history"
     ],
-    "filter": "Time & Date"
+    "filter": "Interface"
   },
   {
     "name": "if-historylist",
     "tags": [
       "historylist"
     ],
-    "filter": "Time & Date"
+    "filter": "Interface"
   },
   {
     "name": "if-hourglass",
     "tags": [
       "hourglass"
     ],
-    "filter": "Time & Date"
+    "filter": ["Interface", "Misc"]
   },
   {
     "name": "if-liveschedule",
     "tags": [
       "liveschedule"
     ],
-    "filter": "Time & Date"
+    "filter": ["Actions","Interface"]
   },
   {
     "name": "if-scheduler",
     "tags": [
       "scheduler"
     ],
-    "filter": "Time & Date"
+    "filter": ["Actions","Objects"]
   },
   {
     "name": "if-versionhistory",
     "tags": [
       "versionhistory"
     ],
-    "filter": "Time & Date"
+    "filter": ["Actions", "Interface", "Dev & Tech"]
   },
   {
     "name": "if-settings-outline",
@@ -498,7 +498,7 @@
       "settings",
       "outline"
     ],
-    "filter": "Hardware"
+    "filter": ["Interface","Actions"]
   },
   {
     "name": "if-settings-solid",
@@ -506,567 +506,567 @@
       "settings",
       "solid"
     ],
-    "filter": "Hardware"
+    "filter": ["Interface","Actions"]
   },
   {
     "name": "if-cogwheel",
     "tags": [
       "cogwheel"
     ],
-    "filter": "Hardware"
+    "filter": ["Interface","Actions"]
   },
   {
     "name": "if-configuration",
     "tags": [
       "configuration"
     ],
-    "filter": "Hardware"
+    "filter": ["Interface","Actions"]
   },
   {
     "name": "if-configure",
     "tags": [
       "configure"
     ],
-    "filter": "Hardware"
+    "filter": ["Interface","Actions"]
   },
   {
     "name": "if-controlleddevice",
     "tags": [
       "controlleddevice"
     ],
-    "filter": "Hardware"
+    "filter": ["Media Control","Dev & Tech"]
   },
   {
     "name": "if-controllerdevice",
     "tags": [
       "controllerdevice"
     ],
-    "filter": "Hardware"
+    "filter": ["Media Control","Dev & Tech"]
   },
   {
     "name": "if-database",
     "tags": [
       "database"
     ],
-    "filter": "Development"
+    "filter": "Dev & Tech"
   },
   {
     "name": "if-dataegress",
     "tags": [
       "dataegress"
     ],
-    "filter": "Development"
+    "filter": "Dev & Tech"
   },
   {
     "name": "if-dataingress",
     "tags": [
       "dataingress"
     ],
-    "filter": "Development"
+    "filter": "Dev & Tech"
   },
   {
     "name": "if-dataingressegress",
     "tags": [
       "dataingressegress"
     ],
-    "filter": "Development"
+    "filter": "Dev & Tech"
   },
   {
     "name": "if-disk",
     "tags": [
       "disk"
     ],
-    "filter": "Hardware"
+    "filter": "Dev & Tech"
   },
   {
     "name": "if-hardwarecabinet",
     "tags": [
       "hardwarecabinet"
     ],
-    "filter": "Hardware"
+    "filter": "Dev & Tech"
   },
   {
     "name": "if-ingestion",
     "tags": [
       "ingestion"
     ],
-    "filter": "Development"
+    "filter": ["Interface", "Actions"]
   },
   {
     "name": "if-lock",
     "tags": [
       "lock"
     ],
-    "filter": "Security"
+    "filter": ["Objects", "Symbols & Status"]
   },
   {
     "name": "if-lockkey",
     "tags": [
       "lockkey"
     ],
-    "filter": "Security"
+    "filter": ["Objects", "Symbols & Status"]
   },
   {
     "name": "if-pctower",
     "tags": [
       "pctower"
     ],
-    "filter": "Hardware"
+    "filter": ["Dev & Tech","Objects"]
   },
   {
     "name": "if-unlock",
     "tags": [
       "unlock"
     ],
-    "filter": "Security"
+    "filter": ["Objects", "Symbols & Status"]
   },
   {
     "name": "if-anomaly",
     "tags": [
       "anomaly"
     ],
-    "filter": "Status"
+    "filter": ["Interface", "Symbols & Status"]
   },
   {
     "name": "if-anomalyfound",
     "tags": [
       "anomalyfound"
     ],
-    "filter": "Status"
+    "filter": ["Interface", "Symbols & Status"]
   },
   {
     "name": "if-cancelled",
     "tags": [
       "cancelled"
     ],
-    "filter": "Status"
+    "filter": "Interface"
   },
   {
     "name": "if-connected",
     "tags": [
       "connected"
     ],
-    "filter": "Status"
+    "filter": ["Interface", "Symbols & Status"]
   },
   {
     "name": "if-disconnected",
     "tags": [
       "disconnected"
     ],
-    "filter": "Status"
+    "filter": ["Interface", "Symbols & Status"]
   },
   {
     "name": "if-doublecheck",
     "tags": [
       "doublecheck"
     ],
-    "filter": "Status"
+    "filter": "Interface"
   },
   {
     "name": "if-error",
     "tags": [
       "error"
     ],
-    "filter": "Status"
+    "filter": ["Interface", "Symbols & Status"]
   },
   {
     "name": "if-health",
     "tags": [
       "health"
     ],
-    "filter": "Health"
+    "filter": "Misc"
   },
   {
     "name": "if-mandatory",
     "tags": [
       "mandatory"
     ],
-    "filter": "Status"
+    "filter": ["Interface", "Symbols & Status"]
   },
   {
     "name": "if-mandatorydone",
     "tags": [
       "mandatorydone"
     ],
-    "filter": "Status"
+    "filter": ["Interface", "Symbols & Status"]
   },
   {
     "name": "if-checkfunction",
     "tags": [
       "checkfunction"
     ],
-    "filter": "Status"
+    "filter": "Symbols & Status"
   },
   {
     "name": "if-failure",
     "tags": [
       "failure"
     ],
-    "filter": "Status"
+    "filter": ["Interface", "Symbols & Status"]
   },
   {
     "name": "if-maintenancerequired",
     "tags": [
       "maintenancerequired"
     ],
-    "filter": "Status"
+    "filter": "Symbols & Status"
   },
   {
     "name": "if-checksquare",
     "tags": [
       "checksquare"
     ],
-    "filter": "Status"
+    "filter": "Symbols & Status"
   },
   {
     "name": "if-questiontri",
     "tags": [
       "questiontri"
     ],
-    "filter": "Shapes & Symbols"
+    "filter": "Symbols & Status"
   },
   {
     "name": "if-priohigh",
     "tags": [
       "priohigh"
     ],
-    "filter": "Status"
+    "filter": "Symbols & Status"
   },
   {
     "name": "if-priolow",
     "tags": [
       "priolow"
     ],
-    "filter": "Status"
+    "filter": "Symbols & Status"
   },
   {
     "name": "if-priomiddle",
     "tags": [
       "priomiddle"
     ],
-    "filter": "Status"
+    "filter": "Symbols & Status"
   },
   {
     "name": "if-singlecheck",
     "tags": [
       "singlecheck"
     ],
-    "filter": "Status"
+    "filter": "Symbols & Status"
   },
   {
     "name": "if-success",
     "tags": [
       "success"
     ],
-    "filter": "Status"
+    "filter": "Symbols & Status"
   },
   {
     "name": "if-validate",
     "tags": [
       "validate"
     ],
-    "filter": "Status"
+    "filter": "Symbols & Status"
   },
   {
     "name": "if-warningtri",
     "tags": [
       "warningtri"
     ],
-    "filter": "Shapes & Symbols"
+    "filter": "Symbols & Status"
   },
   {
     "name": "if-warningrhomb",
     "tags": [
       "warningrhomb"
     ],
-    "filter": "Shapes & Symbols"
+    "filter": "Symbols & Status"
   },
   {
     "name": "if-heart",
     "tags": [
       "heart"
     ],
-    "filter": "Health"
+    "filter": "Misc"
   },
   {
     "name": "if-share",
     "tags": [
       "share"
     ],
-    "filter": "Communication"
+    "filter": ["Media Control","Actions","Interface"]
   },
   {
     "name": "if-signlanguage",
     "tags": [
       "signlanguage"
     ],
-    "filter": "Health"
+    "filter": "Misc"
   },
   {
     "name": "if-barcode",
     "tags": [
       "barcode"
     ],
-    "filter": "Shopping"
+    "filter": ["Misc","Business & Finance"]
   },
   {
     "name": "if-product",
     "tags": [
       "product"
     ],
-    "filter": "Shopping"
+    "filter": "Business & Finance"
   },
   {
     "name": "if-productcatalog",
     "tags": [
       "productcatalog"
     ],
-    "filter": "Shopping"
+    "filter": "Business & Finance"
   },
   {
     "name": "if-productmanagement",
     "tags": [
       "productmanagement"
     ],
-    "filter": "Shopping"
+    "filter": "Business & Finance"
   },
   {
     "name": "if-shoppingcart",
     "tags": [
       "shoppingcart"
     ],
-    "filter": "Shopping"
+    "filter": ["Business & Finance","Interface"]
   },
   {
     "name": "if-circle",
     "tags": [
       "circle"
     ],
-    "filter": "Shapes & Symbols"
+    "filter": "Misc"
   },
   {
     "name": "if-circledot",
     "tags": [
       "circledot"
     ],
-    "filter": "Shapes & Symbols"
+    "filter": "Misc"
   },
   {
     "name": "if-compoundblock",
     "tags": [
       "compoundblock"
     ],
-    "filter": "Shapes & Symbols"
+    "filter": "Dev & Tech"
   },
   {
     "name": "if-connector",
     "tags": [
       "connector"
     ],
-    "filter": "Shapes & Symbols"
+    "filter": "Interface"
   },
   {
     "name": "if-connectorhex",
     "tags": [
       "connectorhex"
     ],
-    "filter": "Shapes & Symbols"
+    "filter": "Interface"
   },
   {
     "name": "if-connectorrect",
     "tags": [
       "connectorrect"
     ],
-    "filter": "Shapes & Symbols"
+    "filter": "Interface"
   },
   {
     "name": "if-connectorrhomb",
     "tags": [
       "connectorrhomb"
     ],
-    "filter": "Shapes & Symbols"
+    "filter": "Interface"
   },
   {
     "name": "if-diamond",
     "tags": [
       "diamond"
     ],
-    "filter": "Shapes & Symbols"
+    "filter": "Misc"
   },
   {
     "name": "if-doublet",
     "tags": [
       "doublet"
     ],
-    "filter": "Shapes & Symbols"
+    "filter": "Communication"
   },
   {
     "name": "if-rhomb",
     "tags": [
       "rhomb"
     ],
-    "filter": "Shapes & Symbols"
+    "filter": "Misc"
   },
   {
     "name": "if-triangle",
     "tags": [
       "triangle"
     ],
-    "filter": "Shapes & Symbols"
+    "filter": "Misc"
   },
   {
     "name": "if-ai",
     "tags": [
       "ai"
     ],
-    "filter": "Development"
+    "filter": "Dev & Tech"
   },
   {
     "name": "if-code",
     "tags": [
       "code"
     ],
-    "filter": "Development"
+    "filter": "Dev & Tech"
   },
   {
     "name": "if-diagrammodule",
     "tags": [
       "diagrammodule"
     ],
-    "filter": "Development"
+    "filter": "Dev & Tech"
   },
   {
     "name": "if-diagrammodulelibrary",
     "tags": [
       "diagrammodulelibrary"
     ],
-    "filter": "Development"
+    "filter": "Dev & Tech"
   },
   {
     "name": "if-diagrammodulenew",
     "tags": [
       "diagrammodulenew"
     ],
-    "filter": "Development"
+    "filter": "Dev & Tech"
   },
   {
     "name": "if-functionblock",
     "tags": [
       "functionblock"
     ],
-    "filter": "Development"
+    "filter": "Dev & Tech"
   },
   {
     "name": "if-functionblocklibrary",
     "tags": [
       "functionblocklibrary"
     ],
-    "filter": "Development"
+    "filter": "Dev & Tech"
   },
   {
     "name": "if-functionblocknew",
     "tags": [
       "functionblocknew"
     ],
-    "filter": "Development"
+    "filter": "Dev & Tech"
   },
   {
     "name": "if-functiondiagram",
     "tags": [
       "functiondiagram"
     ],
-    "filter": "Development"
+    "filter": "Dev & Tech"
   },
   {
     "name": "if-functiondiagramnew",
     "tags": [
       "functiondiagramnew"
     ],
-    "filter": "Development"
+    "filter": "Dev & Tech"
   },
   {
     "name": "if-logicdiagram",
     "tags": [
       "logicdiagram"
     ],
-    "filter": "Development"
+    "filter": "Dev & Tech"
   },
   {
     "name": "if-ontology",
     "tags": [
       "ontology"
     ],
-    "filter": "Development"
+    "filter": "Dev & Tech"
   },
   {
     "name": "if-project",
     "tags": [
       "project"
     ],
-    "filter": "Development"
+    "filter": "Dev & Tech"
   },
   {
     "name": "if-projectconfiguration",
     "tags": [
       "projectconfiguration"
     ],
-    "filter": "Development"
+    "filter": "Dev & Tech"
   },
   {
     "name": "if-projectnew",
     "tags": [
       "projectnew"
     ],
-    "filter": "Development"
+    "filter": "Dev & Tech"
   },
   {
     "name": "if-protocol",
     "tags": [
       "protocol"
     ],
-    "filter": "Development"
+    "filter": "Dev & Tech"
   },
   {
     "name": "if-createplant",
     "tags": [
       "createplant"
     ],
-    "filter": "Plants & Nature"
+    "filter": ["Actions","Business & Finance"]
   },
   {
     "name": "if-editplant",
     "tags": [
       "editplant"
     ],
-    "filter": "Plants & Nature"
+    "filter": ["Actions","Business & Finance"]
   },
   {
     "name": "if-globalplant",
     "tags": [
       "globalplant"
     ],
-    "filter": "Plants & Nature"
+    "filter": ["Actions","Business & Finance"]
   },
   {
     "name": "if-leaf",
     "tags": [
       "leaf"
     ],
-    "filter": "Plants & Nature"
+    "filter": ["Misc"]
   },
   {
     "name": "if-operateplant",
     "tags": [
       "operateplant"
     ],
-    "filter": "Plants & Nature"
+    "filter": ["Actions","Business & Finance"]
   },
   {
     "name": "if-plant",
     "tags": [
       "plant"
     ],
-    "filter": "Location"
+    "filter": ["Actions","Business & Finance"]
   },
   {
     "name": "if-plant-handbook",
@@ -1074,126 +1074,126 @@
       "plant",
       "handbook"
     ],
-    "filter": "Plants & Nature"
+    "filter": ["Actions","Business & Finance"]
   },
   {
     "name": "if-plantoutline",
     "tags": [
       "plantoutline"
     ],
-    "filter": "Plants & Nature"
+    "filter": ["Actions","Business & Finance"]
   },
   {
     "name": "if-plants",
     "tags": [
       "plants"
     ],
-    "filter": "Plants & Nature"
+    "filter": ["Actions","Business & Finance"]
   },
   {
     "name": "if-plantsecurity",
     "tags": [
       "plantsecurity"
     ],
-    "filter": "Plants & Nature"
+    "filter": ["Actions","Business & Finance"]
   },
   {
     "name": "if-plantsettings",
     "tags": [
       "plantsettings"
     ],
-    "filter": "Plants & Nature"
+    "filter": ["Actions","Business & Finance"]
   },
   {
     "name": "if-plantuser",
     "tags": [
       "plantuser"
     ],
-    "filter": "Plants & Nature"
+    "filter": ["Actions","Business & Finance"]
   },
   {
     "name": "if-tulip",
     "tags": [
       "tulip"
     ],
-    "filter": "Plants & Nature"
+    "filter": ["Misc"]
   },
   {
     "name": "if-unlockplant",
     "tags": [
       "unlockplant"
     ],
-    "filter": "Plants & Nature"
+    "filter": ["Actions","Business & Finance"]
   },
   {
     "name": "if-book",
     "tags": [
       "book"
     ],
-    "filter": "Objects & Miscellaneous"
+    "filter": ["Misc","Objects"]
   },
   {
     "name": "if-workcase",
     "tags": [
       "workcase"
     ],
-    "filter": "Objects & Miscellaneous"
+    "filter": ["Misc","Objects"]
   },
   {
     "name": "if-binoculars",
     "tags": [
       "binoculars"
     ],
-    "filter": "Objects & Miscellaneous"
+    "filter": ["Misc","Objects"]
   },
   {
     "name": "if-bulb",
     "tags": [
       "bulb"
     ],
-    "filter": "Objects & Miscellaneous"
+    "filter": ["Misc","Objects"]
   },
   {
     "name": "if-couch",
     "tags": [
       "couch"
     ],
-    "filter": "Objects & Miscellaneous"
+    "filter": ["Misc","Objects"]
   },
   {
     "name": "if-rocket",
     "tags": [
       "rocket"
     ],
-    "filter": "Objects & Miscellaneous"
+    "filter": ["Misc","Objects"]
   },
   {
     "name": "if-waterbathing",
     "tags": [
       "waterbathing"
     ],
-    "filter": "Objects & Miscellaneous"
+    "filter": ["Misc","Objects"]
   },
   {
     "name": "if-waterfish",
     "tags": [
       "waterfish"
     ],
-    "filter": "Objects & Miscellaneous"
+    "filter": ["Misc","Objects"]
   },
   {
     "name": "if-watersunbathing",
     "tags": [
       "watersunbathing"
     ],
-    "filter": "Objects & Miscellaneous"
+    "filter": ["Misc","Objects"]
   },
   {
     "name": "if-warning1",
     "tags": [
       "warning1"
     ],
-    "filter": "Objects & Miscellaneous"
+    "filter": "Symbols & Status"
   },
   {
     "name": "if-alarm-bell",
@@ -1201,7 +1201,7 @@
       "alarm",
       "bell"
     ],
-    "filter": "Objects & Miscellaneous"
+    "filter": "Symbols & Status"
   },
   {
     "name": "if-alarm-bell-cancelled",
@@ -1210,28 +1210,28 @@
       "bell",
       "cancelled"
     ],
-    "filter": "Objects & Miscellaneous"
+    "filter": "Symbols & Status"
   },
   {
     "name": "if-notification",
     "tags": [
       "notification"
     ],
-    "filter": "Communication"
+    "filter": ["Symbols & Status","Interface"]
   },
   {
     "name": "if-notifications",
     "tags": [
       "notifications"
     ],
-    "filter": "Communication"
+    "filter": ["Symbols & Status","Interface"]
   },
   {
     "name": "if-navigation",
     "tags": [
       "navigation"
     ],
-    "filter": "Location"
+    "filter": "Interface"
   },
   {
     "name": "if-navigation-left",
@@ -1239,7 +1239,7 @@
       "navigation",
       "left"
     ],
-    "filter": "Location"
+    "filter": "Interface"
   },
   {
     "name": "if-navigation-right",
@@ -1247,14 +1247,14 @@
       "navigation",
       "right"
     ],
-    "filter": "Location"
+    "filter": "Interface"
   },
   {
     "name": "if-gauge",
     "tags": [
       "gauge"
     ],
-    "filter": "Business & Charts"
+    "filter": ["Misc","Objects"]
   },
   {
     "name": "if-maintenance-info",
@@ -1262,7 +1262,7 @@
       "maintenance",
       "info"
     ],
-    "filter": "Status"
+    "filter": ["Symbols & Status","Interface"]
   },
   {
     "name": "if-maintenance-warning",
@@ -1270,28 +1270,28 @@
       "maintenance",
       "warning"
     ],
-    "filter": "Status"
+    "filter": ["Symbols & Status","Interface"]
   },
   {
     "name": "if-maintenance",
     "tags": [
       "maintenance"
     ],
-    "filter": "Status"
+    "filter": ["Symbols & Status","Interface"]
   },
   {
     "name": "if-monitor",
     "tags": [
       "monitor"
     ],
-    "filter": "UI & Interface"
+    "filter": ["Symbols & Status","Interface","Objects"]
   },
   {
     "name": "if-surveillance",
     "tags": [
       "surveillance"
     ],
-    "filter": "UI & Interface"
+    "filter": ["Symbols & Status","Objects"]
   },
   {
     "name": "if-battery-check",
@@ -1299,7 +1299,7 @@
       "battery",
       "check"
     ],
-    "filter": "Hardware"
+    "filter": "Media Control"
   },
   {
     "name": "if-battery-empty",
@@ -1307,7 +1307,7 @@
       "battery",
       "empty"
     ],
-    "filter": "Hardware"
+    "filter": "Media Control"
   },
   {
     "name": "if-battery-question",
@@ -1315,7 +1315,7 @@
       "battery",
       "question"
     ],
-    "filter": "Hardware"
+    "filter": "Media Control"
   },
   {
     "name": "if-battery-exclamation",
@@ -1323,7 +1323,7 @@
       "battery",
       "exclamation"
     ],
-    "filter": "Hardware"
+    "filter": "Media Control"
   },
   {
     "name": "if-battery-full",
@@ -1331,7 +1331,7 @@
       "battery",
       "full"
     ],
-    "filter": "Hardware"
+    "filter": "Media Control"
   },
   {
     "name": "if-battery-full-check",
@@ -1340,7 +1340,7 @@
       "full",
       "check"
     ],
-    "filter": "Hardware"
+    "filter": "Media Control"
   },
   {
     "name": "if-battery-half",
@@ -1348,7 +1348,7 @@
       "battery",
       "half"
     ],
-    "filter": "Hardware"
+    "filter": "Media Control"
   },
   {
     "name": "if-battery-low",
@@ -1356,7 +1356,7 @@
       "battery",
       "low"
     ],
-    "filter": "Hardware"
+    "filter": "Media Control"
   },
   {
     "name": "if-battery-quarter",
@@ -1364,7 +1364,7 @@
       "battery",
       "quarter"
     ],
-    "filter": "Hardware"
+    "filter": "Media Control"
   },
   {
     "name": "if-battery-slash",
@@ -1372,7 +1372,7 @@
       "battery",
       "slash"
     ],
-    "filter": "Hardware"
+    "filter": "Media Control"
   },
   {
     "name": "if-battery-threequarter",
@@ -1380,7 +1380,7 @@
       "battery",
       "threequarter"
     ],
-    "filter": "Hardware"
+    "filter": "Media Control"
   },
   {
     "name": "if-battery-x",
@@ -1388,14 +1388,14 @@
       "battery",
       "x"
     ],
-    "filter": "Hardware"
+    "filter": "Media Control"
   },
   {
     "name": "if-phone",
     "tags": [
       "phone"
     ],
-    "filter": "Communication"
+    "filter": "Media Control"
   },
   {
     "name": "if-signal-0",
@@ -1403,7 +1403,7 @@
       "signal",
       "0"
     ],
-    "filter": "Communication"
+    "filter": "Media Control"
   },
   {
     "name": "if-signal-1",
@@ -1411,7 +1411,7 @@
       "signal",
       "1"
     ],
-    "filter": "Communication"
+    "filter": "Media Control"
   },
   {
     "name": "if-signal-2",
@@ -1419,7 +1419,7 @@
       "signal",
       "2"
     ],
-    "filter": "Communication"
+    "filter": "Media Control"
   },
   {
     "name": "if-signal-3",
@@ -1427,7 +1427,7 @@
       "signal",
       "3"
     ],
-    "filter": "Communication"
+    "filter": "Media Control"
   },
   {
     "name": "if-signal-4",
@@ -1435,7 +1435,7 @@
       "signal",
       "4"
     ],
-    "filter": "Communication"
+    "filter": "Media Control"
   },
   {
     "name": "if-signal-5",
@@ -1443,7 +1443,7 @@
       "signal",
       "5"
     ],
-    "filter": "Communication"
+    "filter": "Media Control"
   },
   {
     "name": "if-signal-6",
@@ -1451,7 +1451,7 @@
       "signal",
       "6"
     ],
-    "filter": "Communication"
+    "filter": "Media Control"
   },
   {
     "name": "if-signal-7",
@@ -1459,7 +1459,7 @@
       "signal",
       "7"
     ],
-    "filter": "Communication"
+    "filter": "Media Control"
   },
   {
     "name": "if-signal-8",
@@ -1467,7 +1467,7 @@
       "signal",
       "8"
     ],
-    "filter": "Communication"
+    "filter": "Media Control"
   },
   {
     "name": "if-wifi-no",
@@ -1475,7 +1475,7 @@
       "wifi",
       "no"
     ],
-    "filter": "Communication"
+    "filter": "Media Control"
   },
   {
     "name": "if-wifi-error",
@@ -1483,7 +1483,7 @@
       "wifi",
       "error"
     ],
-    "filter": "Communication"
+    "filter": "Media Control"
   },
   {
     "name": "if-wifi-sm",
@@ -1491,7 +1491,7 @@
       "wifi",
       "sm"
     ],
-    "filter": "Communication"
+    "filter": "Media Control"
   },
   {
     "name": "if-wifi-md",
@@ -1499,7 +1499,7 @@
       "wifi",
       "md"
     ],
-    "filter": "Communication"
+    "filter": "Media Control"
   },
   {
     "name": "if-wifi-lg",
@@ -1507,49 +1507,49 @@
       "wifi",
       "lg"
     ],
-    "filter": "Communication"
+    "filter": "Media Control"
   },
   {
     "name": "if-capture",
     "tags": [
       "capture"
     ],
-    "filter": "Images & Video"
+    "filter": "Media Control"
   },
   {
     "name": "if-disc",
     "tags": [
       "disc"
     ],
-    "filter": "Images & Video"
+    "filter": ["Media Control","Objects"]
   },
   {
     "name": "if-image",
     "tags": [
       "image"
     ],
-    "filter": "Images & Video"
+    "filter": ["Media Control","Objects"]
   },
   {
     "name": "if-camera",
     "tags": [
       "camera"
     ],
-    "filter": "Hardware"
+    "filter": ["Media Control","Objects"]
   },
   {
     "name": "if-screen",
     "tags": [
       "screen"
     ],
-    "filter": "Hardware"
+    "filter": ["Media Control","Objects"]
   },
   {
     "name": "if-screenshot",
     "tags": [
       "screenshot"
     ],
-    "filter": "Images & Video"
+    "filter": ["Media Control","Objects"]
   },
   {
     "name": "if-video-file",
@@ -1557,14 +1557,14 @@
       "video",
       "file"
     ],
-    "filter": "Images & Video"
+    "filter": ["Media Control","Interface"]
   },
   {
     "name": "if-webcam",
     "tags": [
       "webcam"
     ],
-    "filter": "Hardware"
+    "filter": ["Media Control","Objects"]
   },
   {
     "name": "if-login-secure",
@@ -1572,21 +1572,21 @@
       "login",
       "secure"
     ],
-    "filter": "Security"
+    "filter": "Interface"
   },
   {
     "name": "if-logout",
     "tags": [
       "logout"
     ],
-    "filter": "Security"
+    "filter": "Interface"
   },
   {
     "name": "if-building",
     "tags": [
       "building"
     ],
-    "filter": "Location"
+    "filter": ["Objects","Misc"]
   },
   {
     "name": "if-building-alt",
@@ -1594,21 +1594,21 @@
       "building",
       "alt"
     ],
-    "filter": "Location"
+    "filter": ["Objects","Misc"]
   },
   {
     "name": "if-home",
     "tags": [
       "home"
     ],
-    "filter": "Location"
+    "filter": ["Objects","Misc","Interface"]
   },
   {
     "name": "if-location",
     "tags": [
       "location"
     ],
-    "filter": "Location"
+    "filter": "Map & Location"
   },
   {
     "name": "if-location-alt",
@@ -1616,56 +1616,56 @@
       "location",
       "alt"
     ],
-    "filter": "Location"
+    "filter": "Map & Location"
   },
   {
     "name": "if-map",
     "tags": [
       "map"
     ],
-    "filter": "Location"
+    "filter": "Map & Location"
   },
   {
     "name": "if-explore",
     "tags": [
       "explore"
     ],
-    "filter": "Location"
+    "filter": ["Objects", "Misc"]
   },
   {
     "name": "if-eye",
     "tags": [
       "eye"
     ],
-    "filter": "UI & Interface"
+    "filter": ["Objects", "Misc"]
   },
   {
     "name": "if-flag",
     "tags": [
       "flag"
     ],
-    "filter": "UI & Interface"
+    "filter": ["Objects", "Misc"]
   },
   {
     "name": "if-language",
     "tags": [
       "language"
     ],
-    "filter": "UI & Interface"
+    "filter": "Interface"
   },
   {
     "name": "if-legal",
     "tags": [
       "legal"
     ],
-    "filter": "UI & Interface"
+    "filter": ["Business & Finance","Symbols & Status"]
   },
   {
     "name": "if-library",
     "tags": [
       "library"
     ],
-    "filter": "UI & Interface"
+    "filter": ["Interface","Objects"]
   },
   {
     "name": "if-library-new",
@@ -1673,49 +1673,49 @@
       "library",
       "new"
     ],
-    "filter": "UI & Interface"
+    "filter": ["Interface","Actions"]
   },
   {
     "name": "if-license",
     "tags": [
       "license"
     ],
-    "filter": "UI & Interface"
+    "filter": "Business & Finance"
   },
   {
     "name": "if-qrcode",
     "tags": [
       "qrcode"
     ],
-    "filter": "UI & Interface"
+    "filter": "Dev & Tech"
   },
   {
     "name": "if-reference",
     "tags": [
       "reference"
     ],
-    "filter": "UI & Interface"
+    "filter": "Interface"
   },
   {
     "name": "if-spatial",
     "tags": [
       "spatial"
     ],
-    "filter": "Location"
+    "filter": ["Objects","Misc"]
   },
   {
     "name": "if-support",
     "tags": [
       "support"
     ],
-    "filter": "UI & Interface"
+    "filter": ["Interface","Communication"]
   },
   {
     "name": "if-folder",
     "tags": [
       "folder"
     ],
-    "filter": "Files & Folders"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-folder-down",
@@ -1723,7 +1723,7 @@
       "folder",
       "down"
     ],
-    "filter": "Files & Folders"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-folder-new",
@@ -1731,7 +1731,7 @@
       "folder",
       "new"
     ],
-    "filter": "Files & Folders"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-folder-new-alt",
@@ -1740,7 +1740,7 @@
       "new",
       "alt"
     ],
-    "filter": "Files & Folders"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-folder-open",
@@ -1748,7 +1748,7 @@
       "folder",
       "open"
     ],
-    "filter": "Files & Folders"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-folder-open-alt",
@@ -1757,7 +1757,7 @@
       "open",
       "alt"
     ],
-    "filter": "Files & Folders"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-folder-alt",
@@ -1765,7 +1765,7 @@
       "folder",
       "alt"
     ],
-    "filter": "Files & Folders"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-folder-up",
@@ -1773,7 +1773,7 @@
       "folder",
       "up"
     ],
-    "filter": "Files & Folders"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-folder-vdi",
@@ -1781,63 +1781,63 @@
       "folder",
       "vdi"
     ],
-    "filter": "Files & Folders"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-copy",
     "tags": [
       "copy"
     ],
-    "filter": "Editing"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-cut",
     "tags": [
       "cut"
     ],
-    "filter": "Editing"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-save",
     "tags": [
       "save"
     ],
-    "filter": "Editing"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-highlight",
     "tags": [
       "highlight"
     ],
-    "filter": "Design"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-pen",
     "tags": [
       "pen"
     ],
-    "filter": "Design"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-paste",
     "tags": [
       "paste"
     ],
-    "filter": "Editing"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-pencil",
     "tags": [
       "pencil"
     ],
-    "filter": "Design"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-rename",
     "tags": [
       "rename"
     ],
-    "filter": "Editing"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-add-document-note",
@@ -1846,7 +1846,7 @@
       "document",
       "note"
     ],
-    "filter": "Documents"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-audit-report",
@@ -1854,7 +1854,7 @@
       "audit",
       "report"
     ],
-    "filter": "Documents"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-document-doc",
@@ -1862,14 +1862,14 @@
       "document",
       "doc"
     ],
-    "filter": "Documents"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-document",
     "tags": [
       "document"
     ],
-    "filter": "Documents"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-bulk-document",
@@ -1877,7 +1877,7 @@
       "bulk",
       "document"
     ],
-    "filter": "Documents"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-document-info",
@@ -1885,7 +1885,7 @@
       "document",
       "info"
     ],
-    "filter": "Documents"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-document-link",
@@ -1893,7 +1893,7 @@
       "document",
       "link"
     ],
-    "filter": "Documents"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-document-management",
@@ -1901,7 +1901,7 @@
       "document",
       "management"
     ],
-    "filter": "Documents"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-document-reference",
@@ -1909,7 +1909,7 @@
       "document",
       "reference"
     ],
-    "filter": "Documents"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-document-settings",
@@ -1917,7 +1917,7 @@
       "document",
       "settings"
     ],
-    "filter": "Documents"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-document-success",
@@ -1925,7 +1925,7 @@
       "document",
       "success"
     ],
-    "filter": "Documents"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-duplicate-document",
@@ -1933,7 +1933,7 @@
       "duplicate",
       "document"
     ],
-    "filter": "Documents"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-ingestion-report",
@@ -1941,14 +1941,14 @@
       "ingestion",
       "report"
     ],
-    "filter": "Development"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-log",
     "tags": [
       "log"
     ],
-    "filter": "Documents"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-maintenance-documents",
@@ -1956,7 +1956,7 @@
       "maintenance",
       "documents"
     ],
-    "filter": "Status"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-document-mp4",
@@ -1964,14 +1964,14 @@
       "document",
       "mp4"
     ],
-    "filter": "Documents"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-note",
     "tags": [
       "note"
     ],
-    "filter": "Documents"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-document-pdf",
@@ -1979,7 +1979,7 @@
       "document",
       "pdf"
     ],
-    "filter": "Documents"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-document-ppt",
@@ -1987,7 +1987,7 @@
       "document",
       "ppt"
     ],
-    "filter": "Documents"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-publish-document",
@@ -1995,7 +1995,7 @@
       "publish",
       "document"
     ],
-    "filter": "Documents"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-quality-report",
@@ -2003,7 +2003,7 @@
       "quality",
       "report"
     ],
-    "filter": "Documents"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-report-text",
@@ -2011,7 +2011,7 @@
       "report",
       "text"
     ],
-    "filter": "Documents"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-document-svg",
@@ -2019,7 +2019,7 @@
       "document",
       "svg"
     ],
-    "filter": "Documents"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-text-document",
@@ -2027,7 +2027,7 @@
       "text",
       "document"
     ],
-    "filter": "Documents"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-document-txt",
@@ -2035,7 +2035,7 @@
       "document",
       "txt"
     ],
-    "filter": "Documents"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-upload-document",
@@ -2043,7 +2043,7 @@
       "upload",
       "document"
     ],
-    "filter": "Documents"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-document-xls",
@@ -2051,7 +2051,7 @@
       "document",
       "xls"
     ],
-    "filter": "Documents"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-document-xml",
@@ -2059,21 +2059,21 @@
       "document",
       "xml"
     ],
-    "filter": "Documents"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-email",
     "tags": [
       "email"
     ],
-    "filter": "Communication"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-inquiry",
     "tags": [
       "inquiry"
     ],
-    "filter": "Communication"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-mail-inquiry",
@@ -2081,21 +2081,21 @@
       "mail",
       "inquiry"
     ],
-    "filter": "Communication"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-mail",
     "tags": [
       "mail"
     ],
-    "filter": "Communication"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-shout",
     "tags": [
       "shout"
     ],
-    "filter": "Communication"
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-cloud-download-add",
@@ -2104,7 +2104,7 @@
       "download",
       "add"
     ],
-    "filter": ""
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-cloud-download-list",
@@ -2113,7 +2113,7 @@
       "download",
       "list"
     ],
-    "filter": ""
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-cloud-download",
@@ -2121,7 +2121,7 @@
       "cloud",
       "download"
     ],
-    "filter": ""
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-cloud-new",
@@ -2129,7 +2129,7 @@
       "cloud",
       "new"
     ],
-    "filter": ""
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-cloud-success",
@@ -2137,7 +2137,7 @@
       "cloud",
       "success"
     ],
-    "filter": ""
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-cloud-upload",
@@ -2145,14 +2145,14 @@
       "cloud",
       "upload"
     ],
-    "filter": ""
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-cloud",
     "tags": [
       "cloud"
     ],
-    "filter": ""
+    "filter": ["Interface","Media Control"]
   },
   {
     "name": "if-monitor-trend",
@@ -2160,21 +2160,21 @@
       "monitor",
       "trend"
     ],
-    "filter": "Business & Charts"
+    "filter": ""
   },
   {
     "name": "if-average",
     "tags": [
       "average"
     ],
-    "filter": "Business & Charts"
+    "filter": "Symbols & Status"
   },
   {
     "name": "if-capacity",
     "tags": [
       "capacity"
     ],
-    "filter": "Business & Charts"
+    "filter": "Symbols & Status"
   },
   {
     "name": "if-chart-bar",
@@ -2182,7 +2182,7 @@
       "chart",
       "bar"
     ],
-    "filter": "Business & Charts"
+    "filter": ["Business & Finance","Symbols & Status"]
   },
   {
     "name": "if-chart-connector",
@@ -2190,7 +2190,7 @@
       "chart",
       "connector"
     ],
-    "filter": "Business & Charts"
+    "filter": ["Business & Finance","Symbols & Status"]
   },
   {
     "name": "if-chart-cursor",
@@ -2198,7 +2198,7 @@
       "chart",
       "cursor"
     ],
-    "filter": "Business & Charts"
+    "filter": ["Business & Finance","Symbols & Status"]
   },
   {
     "name": "if-chart-curve-linear",
@@ -2207,7 +2207,7 @@
       "curve",
       "linear"
     ],
-    "filter": "Business & Charts"
+    "filter": ["Business & Finance","Symbols & Status"]
   },
   {
     "name": "if-chart-curve-spline",
@@ -2216,7 +2216,7 @@
       "curve",
       "spline"
     ],
-    "filter": "Business & Charts"
+    "filter": ["Business & Finance","Symbols & Status"]
   },
   {
     "name": "if-chart-curve-stepped",
@@ -2225,7 +2225,7 @@
       "curve",
       "stepped"
     ],
-    "filter": "Business & Charts"
+    "filter": ["Business & Finance","Symbols & Status"]
   },
   {
     "name": "if-chart-gauge",
@@ -2233,7 +2233,7 @@
       "chart",
       "gauge"
     ],
-    "filter": "Business & Charts"
+    "filter": ["Business & Finance","Symbols & Status"]
   },
   {
     "name": "if-chart-labels",
@@ -2241,7 +2241,7 @@
       "chart",
       "labels"
     ],
-    "filter": "Business & Charts"
+    "filter": ["Business & Finance","Symbols & Status"]
   },
   {
     "name": "if-chart-radar",
@@ -2249,7 +2249,7 @@
       "chart",
       "radar"
     ],
-    "filter": "Business & Charts"
+    "filter": ["Business & Finance","Symbols & Status"]
   },
   {
     "name": "if-chart-reportbar",
@@ -2257,7 +2257,7 @@
       "chart",
       "reportbar"
     ],
-    "filter": "Business & Charts"
+    "filter": ["Business & Finance","Symbols & Status"]
   },
   {
     "name": "if-chart-reportline",
@@ -2265,7 +2265,7 @@
       "chart",
       "reportline"
     ],
-    "filter": "Business & Charts"
+    "filter": ["Business & Finance","Symbols & Status"]
   },
   {
     "name": "if-pi-diagram",
@@ -2273,7 +2273,7 @@
       "pi",
       "diagram"
     ],
-    "filter": "Business & Charts"
+    "filter": ["Business & Finance","Symbols & Status"]
   },
   {
     "name": "if-pie-chart",
@@ -2281,7 +2281,7 @@
       "pie",
       "chart"
     ],
-    "filter": "Business & Charts"
+    "filter": ["Business & Finance","Symbols & Status"]
   },
   {
     "name": "if-polar-plot",
@@ -2289,14 +2289,14 @@
       "polar",
       "plot"
     ],
-    "filter": "Business & Charts"
+    "filter": ["Business & Finance","Symbols & Status"]
   },
   {
     "name": "if-scatterplot",
     "tags": [
       "scatterplot"
     ],
-    "filter": "Business & Charts"
+    "filter": ["Business & Finance","Symbols & Status"]
   },
   {
     "name": "if-threshold-cancelled",
@@ -2304,7 +2304,7 @@
       "threshold",
       "cancelled"
     ],
-    "filter": "Business & Charts"
+    "filter": ["Business & Finance","Symbols & Status"]
   },
   {
     "name": "if-threshold-off",
@@ -2312,7 +2312,7 @@
       "threshold",
       "off"
     ],
-    "filter": "Business & Charts"
+    "filter": ["Business & Finance","Symbols & Status"]
   },
   {
     "name": "if-threshold-on",
@@ -2320,14 +2320,14 @@
       "threshold",
       "on"
     ],
-    "filter": "Business & Charts"
+    "filter": ["Business & Finance","Symbols & Status"]
   },
   {
     "name": "if-trend",
     "tags": [
       "trend"
     ],
-    "filter": "Business & Charts"
+    "filter": ["Business & Finance","Symbols & Status"]
   },
   {
     "name": "if-x-axis-settings",
@@ -2336,7 +2336,7 @@
       "axis",
       "settings"
     ],
-    "filter": "Business & Charts"
+    "filter": ["Business & Finance","Symbols & Status"]
   },
   {
     "name": "if-y-axis-settings",
@@ -2345,7 +2345,7 @@
       "axis",
       "settings"
     ],
-    "filter": "Business & Charts"
+    "filter": ["Business & Finance","Symbols & Status"]
   },
   {
     "name": "if-audio-description-alt",
@@ -2354,7 +2354,7 @@
       "description",
       "alt"
     ],
-    "filter": "Communication"
+    "filter": "Media Control"
   },
   {
     "name": "if-audio-description",
@@ -2362,14 +2362,14 @@
       "audio",
       "description"
     ],
-    "filter": "Communication"
+    "filter": "Media Control"
   },
   {
     "name": "if-microphone",
     "tags": [
       "microphone"
     ],
-    "filter": "Communication"
+    "filter": ["Map & Location","Objects"]
   },
   {
     "name": "if-pause-circle",
@@ -2377,14 +2377,14 @@
       "pause",
       "circle"
     ],
-    "filter": "Shapes & Symbols"
+    "filter": "Media Control"
   },
   {
     "name": "if-pause",
     "tags": [
       "pause"
     ],
-    "filter": "Miscellaneous"
+    "filter": "Media Control"
   },
   {
     "name": "if-play-circle",
@@ -2392,14 +2392,14 @@
       "play",
       "circle"
     ],
-    "filter": "Shapes & Symbols"
+    "filter": "Media Control"
   },
   {
     "name": "if-play",
     "tags": [
       "play"
     ],
-    "filter": "Miscellaneous"
+    "filter": "Media Control"
   },
   {
     "name": "if-radiowaves-off",
@@ -2407,14 +2407,14 @@
       "radiowaves",
       "off"
     ],
-    "filter": "Communication"
+    "filter": "Media Control"
   },
   {
     "name": "if-radiowaves",
     "tags": [
       "radiowaves"
     ],
-    "filter": "Communication"
+    "filter": "Media Control"
   },
   {
     "name": "if-skip-back",
@@ -2422,7 +2422,7 @@
       "skip",
       "back"
     ],
-    "filter": "Miscellaneous"
+    "filter": "Media Control"
   },
   {
     "name": "if-skip-next",
@@ -2430,7 +2430,7 @@
       "skip",
       "next"
     ],
-    "filter": "Miscellaneous"
+    "filter": "Media Control"
   },
   {
     "name": "if-sound-loud",
@@ -2438,7 +2438,7 @@
       "sound",
       "loud"
     ],
-    "filter": "Communication"
+    "filter": "Media Control"
   },
   {
     "name": "if-sound-mute",
@@ -2446,7 +2446,7 @@
       "sound",
       "mute"
     ],
-    "filter": "Communication"
+    "filter": "Media Control"
   },
   {
     "name": "if-sound-off",
@@ -2454,7 +2454,7 @@
       "sound",
       "off"
     ],
-    "filter": "Communication"
+    "filter": "Media Control"
   },
   {
     "name": "if-sound-quiet",
@@ -2462,7 +2462,7 @@
       "sound",
       "quiet"
     ],
-    "filter": "Communication"
+    "filter": "Media Control"
   },
   {
     "name": "if-stop-circle",
@@ -2470,21 +2470,21 @@
       "stop",
       "circle"
     ],
-    "filter": "Shapes & Symbols"
+    "filter": "Media Control"
   },
   {
     "name": "if-stop",
     "tags": [
       "stop"
     ],
-    "filter": "Miscellaneous"
+    "filter": "Media Control"
   },
   {
     "name": "if-waveform",
     "tags": [
       "waveform"
     ],
-    "filter": "Communication"
+    "filter": "Media Control"
   },
   {
     "name": "if-arrow-down-right",
@@ -2493,7 +2493,7 @@
       "down",
       "right"
     ],
-    "filter": "Arrows"
+    "filter": "Interface"
   },
   {
     "name": "if-arrow-down",
@@ -2501,7 +2501,7 @@
       "arrow",
       "down"
     ],
-    "filter": "Arrows"
+    "filter": "Interface"
   },
   {
     "name": "if-arrow-left",
@@ -2509,7 +2509,7 @@
       "arrow",
       "left"
     ],
-    "filter": "Arrows"
+    "filter": "Interface"
   },
   {
     "name": "if-arrow-right",
@@ -2517,7 +2517,7 @@
       "arrow",
       "right"
     ],
-    "filter": "Arrows"
+    "filter": "Interface"
   },
   {
     "name": "if-arrow-up-left",
@@ -2526,7 +2526,7 @@
       "up",
       "left"
     ],
-    "filter": "Arrows"
+    "filter": "Interface"
   },
   {
     "name": "if-arrow-up",
@@ -2534,7 +2534,7 @@
       "arrow",
       "up"
     ],
-    "filter": "Arrows"
+    "filter": "Interface"
   },
   {
     "name": "if-chevron-down-double",
@@ -2543,7 +2543,7 @@
       "down",
       "double"
     ],
-    "filter": "Arrows"
+    "filter": "Interface"
   },
   {
     "name": "if-chevron-down-small",
@@ -2552,7 +2552,7 @@
       "down",
       "small"
     ],
-    "filter": "Arrows"
+    "filter": "Interface"
   },
   {
     "name": "if-chevron-down",
@@ -2560,7 +2560,7 @@
       "chevron",
       "down"
     ],
-    "filter": "Arrows"
+    "filter": "Interface"
   },
   {
     "name": "if-chevron-left-double",
@@ -2569,7 +2569,7 @@
       "left",
       "double"
     ],
-    "filter": "Arrows"
+    "filter": "Interface"
   },
   {
     "name": "if-chevron-left-small",
@@ -2578,7 +2578,7 @@
       "left",
       "small"
     ],
-    "filter": "Arrows"
+    "filter": "Interface"
   },
   {
     "name": "if-chevron-left",
@@ -2586,7 +2586,7 @@
       "chevron",
       "left"
     ],
-    "filter": "Arrows"
+    "filter": "Interface"
   },
   {
     "name": "if-chevron-right-double",
@@ -2595,7 +2595,7 @@
       "right",
       "double"
     ],
-    "filter": "Arrows"
+    "filter": "Interface"
   },
   {
     "name": "if-chevron-right-small",
@@ -2604,7 +2604,7 @@
       "right",
       "small"
     ],
-    "filter": "Arrows"
+    "filter": "Interface"
   },
   {
     "name": "if-chevron-right",
@@ -2612,7 +2612,7 @@
       "chevron",
       "right"
     ],
-    "filter": "Arrows"
+    "filter": "Interface"
   },
   {
     "name": "if-chevron-up-double",
@@ -2621,7 +2621,7 @@
       "up",
       "double"
     ],
-    "filter": "Arrows"
+    "filter": "Interface"
   },
   {
     "name": "if-chevron-up-small",
@@ -2630,7 +2630,7 @@
       "up",
       "small"
     ],
-    "filter": "Arrows"
+    "filter": "Interface"
   },
   {
     "name": "if-chevron-up",
@@ -2638,7 +2638,7 @@
       "chevron",
       "up"
     ],
-    "filter": "Arrows"
+    "filter": "Interface"
   },
   {
     "name": "if-download-add",
@@ -2646,7 +2646,7 @@
       "download",
       "add"
     ],
-    "filter": "Editing"
+    "filter": ["Interface","Actions"]
   },
   {
     "name": "if-download-list",
@@ -2654,35 +2654,35 @@
       "download",
       "list"
     ],
-    "filter": "UI & Interface"
+    "filter": ["Interface","Actions"]
   },
   {
     "name": "if-download",
     "tags": [
       "download"
     ],
-    "filter": "Miscellaneous"
+    "filter": ["Interface","Actions"]
   },
   {
     "name": "if-export",
     "tags": [
       "export"
     ],
-    "filter": "Arrows"
+    "filter": ["Interface","Actions"]
   },
   {
     "name": "if-goto",
     "tags": [
       "goto"
     ],
-    "filter": "Arrows"
+    "filter": ["Interface","Actions"]
   },
   {
     "name": "if-import",
     "tags": [
       "import"
     ],
-    "filter": "Arrows"
+    "filter": ["Interface","Actions"]
   },
   {
     "name": "if-limit-lower",
@@ -2690,7 +2690,7 @@
       "limit",
       "lower"
     ],
-    "filter": "Arrows"
+    "filter": ["Interface","Actions"]
   },
   {
     "name": "if-limit-upper",
@@ -2698,28 +2698,28 @@
       "limit",
       "upper"
     ],
-    "filter": "Arrows"
+    "filter": ["Interface","Actions"]
   },
   {
     "name": "if-repeat",
     "tags": [
       "repeat"
     ],
-    "filter": "Arrows"
+    "filter": ["Actions","Media Control"]
   },
   {
     "name": "if-swap",
     "tags": [
       "swap"
     ],
-    "filter": "Arrows"
+    "filter": ["Actions","Media Control"]
   },
   {
     "name": "if-add",
     "tags": [
       "add"
     ],
-    "filter": "Editing"
+    "filter": ["Interface","Actions"]
   },
   {
     "name": "if-add-circle",
@@ -2727,28 +2727,28 @@
       "add",
       "circle"
     ],
-    "filter": "Editing"
+    "filter": ["Interface","Actions"]
   },
   {
     "name": "if-addeye",
     "tags": [
       "addeye"
     ],
-    "filter": "Editing"
+    "filter": ["Objects","Actions"]
   },
   {
     "name": "if-analyze",
     "tags": [
       "analyze"
     ],
-    "filter": "Editing"
+    "filter": ["Symbols & Status","Business & Finance"]
   },
   {
     "name": "if-attach",
     "tags": [
       "attach"
     ],
-    "filter": "Editing"
+    "filter": ["Interface","Actions"]
   },
   {
     "name": "if-attachment-upload",
@@ -2756,28 +2756,28 @@
       "attachment",
       "upload"
     ],
-    "filter": "Editing"
+    "filter": ["Interface","Actions"]
   },
   {
     "name": "if-cancel",
     "tags": [
       "cancel"
     ],
-    "filter": "Editing"
+    "filter": ["Interface","Actions"]
   },
   {
     "name": "if-clear",
     "tags": [
       "clear"
     ],
-    "filter": "Editing"
+    "filter": ["Interface","Actions"]
   },
   {
     "name": "if-close",
     "tags": [
       "close"
     ],
-    "filter": "Editing"
+    "filter": ["Interface","Actions"]
   },
   {
     "name": "if-close-small",
@@ -2785,21 +2785,21 @@
       "close",
       "small"
     ],
-    "filter": "Editing"
+    "filter": ["Interface","Actions"]
   },
   {
     "name": "if-combine",
     "tags": [
       "combine"
     ],
-    "filter": "Editing"
+    "filter": ["Interface","Actions"]
   },
   {
     "name": "if-duplicate",
     "tags": [
       "duplicate"
     ],
-    "filter": "Editing"
+    "filter": ["Interface","Actions"]
   },
   {
     "name": "if-eye-cancelled",
@@ -2807,133 +2807,133 @@
       "eye",
       "cancelled"
     ],
-    "filter": "UI & Interface"
+    "filter": ["Objects","Actions"]
   },
   {
     "name": "if-group",
     "tags": [
       "group"
     ],
-    "filter": "Editing"
+    "filter": ["Interface","Actions"]
   },
   {
     "name": "if-link",
     "tags": [
       "link"
     ],
-    "filter": "Editing"
+    "filter": ["Interface","Actions"]
   },
   {
     "name": "if-minus",
     "tags": [
       "minus"
     ],
-    "filter": "Editing"
+    "filter": ["Interface","Actions"]
   },
   {
     "name": "if-mix",
     "tags": [
       "mix"
     ],
-    "filter": "Editing"
+    "filter": ["Media Control","Actions"]
   },
   {
     "name": "if-mouseclick",
     "tags": [
       "mouseclick"
     ],
-    "filter": "UI & Interface"
+    "filter": "Interface"
   },
   {
     "name": "if-mouseselect",
     "tags": [
       "mouseselect"
     ],
-    "filter": "UI & Interface"
+    "filter": "Interface"
   },
   {
     "name": "if-openexternal",
     "tags": [
       "openexternal"
     ],
-    "filter": "UI & Interface"
+    "filter": ["Interface","Actions"]
   },
   {
     "name": "if-openfile",
     "tags": [
       "openfile"
     ],
-    "filter": "UI & Interface"
+    "filter": ["Interface","Actions"]
   },
   {
     "name": "if-optimize",
     "tags": [
       "optimize"
     ],
-    "filter": "Editing"
+    "filter": "Symbols & Status"
   },
   {
     "name": "if-pan",
     "tags": [
       "pan"
     ],
-    "filter": "Design"
+    "filter": ["Media Control","Actions"]
   },
   {
     "name": "if-pin",
     "tags": [
       "pin"
     ],
-    "filter": "UI & Interface"
+    "filter": ["Interface","Actions"]
   },
   {
     "name": "if-plus",
     "tags": [
       "plus"
     ],
-    "filter": "UI & Interface"
+    "filter": ["Interface","Actions"]
   },
   {
     "name": "if-pointup",
     "tags": [
       "pointup"
     ],
-    "filter": "UI & Interface"
+    "filter": ["Interface","Misc"]
   },
   {
     "name": "if-print",
     "tags": [
       "print"
     ],
-    "filter": "UI & Interface"
+    "filter": ["Objects","Misc"]
   },
   {
     "name": "if-publish",
     "tags": [
       "publish"
     ],
-    "filter": "Documents"
+    "filter": ["Interface","Actions"]
   },
   {
     "name": "if-random",
     "tags": [
       "random"
     ],
-    "filter": "UI & Interface"
+    "filter": ["Media Control","Actions"]
   },
   {
     "name": "if-redo",
     "tags": [
       "redo"
     ],
-    "filter": "Editing"
+    "filter": ["Media Control","Actions"]
   },
   {
     "name": "if-refresh",
     "tags": [
       "refresh"
     ],
-    "filter": "Editing"
+    "filter": ["Media Control","Actions"]
   },
   {
     "name": "if-refresh-cancelled",
@@ -2941,14 +2941,14 @@
       "refresh",
       "cancelled"
     ],
-    "filter": "Editing"
+    "filter": ["Media Control","Actions"]
   },
   {
     "name": "if-reload",
     "tags": [
       "reload"
     ],
-    "filter": "Editing"
+    "filter": ["Media Control","Actions"]
   },
   {
     "name": "if-remove-eye",
@@ -2956,21 +2956,21 @@
       "remove",
       "eye"
     ],
-    "filter": "Editing"
+    "filter": ["Objects","Actions"]
   },
   {
     "name": "if-reset",
     "tags": [
       "reset"
     ],
-    "filter": "Editing"
+    "filter": ["Media Control","Actions"]
   },
   {
     "name": "if-sort",
     "tags": [
       "sort"
     ],
-    "filter": "Arrows"
+    "filter": ["Media Control","Actions"]
   },
   {
     "name": "if-sort-ascending",
@@ -2978,7 +2978,7 @@
       "sort",
       "ascending"
     ],
-    "filter": "Arrows"
+    "filter": ["Media Control","Actions","Interface"]
   },
   {
     "name": "if-sort-descending",
@@ -2986,7 +2986,7 @@
       "sort",
       "descending"
     ],
-    "filter": "Arrows"
+    "filter": ["Media Control","Actions","Interface"]
   },
   {
     "name": "if-star-add",
@@ -2994,7 +2994,7 @@
       "star",
       "add"
     ],
-    "filter": "Editing"
+    "filter": ["Interface","Actions"]
   },
   {
     "name": "if-star-cancelled",
@@ -3002,7 +3002,7 @@
       "star",
       "cancelled"
     ],
-    "filter": "Editing"
+    "filter": ["Interface","Actions"]
   },
   {
     "name": "if-start-dataanalysis",
@@ -3010,7 +3010,7 @@
       "start",
       "dataanalysis"
     ],
-    "filter": "Development"
+    "filter": ["Interface","Actions"]
   },
   {
     "name": "if-be-published",
@@ -3018,7 +3018,7 @@
       "be",
       "published"
     ],
-    "filter": "UI & Interface"
+    "filter": ["Interface","Actions"]
   },
   {
     "name": "if-to-search",
@@ -3026,49 +3026,49 @@
       "to",
       "search"
     ],
-    "filter": "UI & Interface"
+    "filter": ["Interface","Actions"]
   },
   {
     "name": "if-touch",
     "tags": [
       "touch"
     ],
-    "filter": "UI & Interface"
+    "filter": ["Actions","Interface"]
   },
   {
     "name": "if-trashcan",
     "tags": [
       "trashcan"
     ],
-    "filter": "Editing"
+    "filter": ["Actions","Interface"]
   },
   {
     "name": "if-undo",
     "tags": [
       "undo"
     ],
-    "filter": "Editing"
+    "filter": ["Actions","Interface"]
   },
   {
     "name": "if-ungroup",
     "tags": [
       "ungroup"
     ],
-    "filter": "Editing"
+    "filter": ["Actions","Interface"]
   },
   {
     "name": "if-upload",
     "tags": [
       "upload"
     ],
-    "filter": "Documents"
+    "filter": ["Actions","Interface"]
   },
   {
     "name": "if-uploadsuccess",
     "tags": [
       "uploadsuccess"
     ],
-    "filter": "Documents"
+    "filter": ["Actions","Interface"]
   },
   {
     "name": "if-windows-xp",
@@ -3076,7 +3076,7 @@
       "windows",
       "xp"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-windows-11",
@@ -3084,7 +3084,7 @@
       "windows",
       "11"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-windows-10",
@@ -3092,35 +3092,35 @@
       "windows",
       "10"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-safari",
     "tags": [
       "safari"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-opera",
     "tags": [
       "opera"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-linux",
     "tags": [
       "linux"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-ie",
     "tags": [
       "ie"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-firefox-alt",
@@ -3128,63 +3128,63 @@
       "firefox",
       "alt"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-firefox",
     "tags": [
       "firefox"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-edge",
     "tags": [
       "edge"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-chrome",
     "tags": [
       "chrome"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-brave",
     "tags": [
       "brave"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-visa",
     "tags": [
       "visa"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Business & Finance","Brands & Logos"]
   },
   {
     "name": "if-paypal",
     "tags": [
       "paypal"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Business & Finance","Brands & Logos"]
   },
   {
     "name": "if-mastercard",
     "tags": [
       "mastercard"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Business & Finance","Brands & Logos"]
   },
   {
     "name": "if-discover",
     "tags": [
       "discover"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Business & Finance","Brands & Logos"]
   },
   {
     "name": "if-apple-pay",
@@ -3192,14 +3192,14 @@
       "apple",
       "pay"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Business & Finance","Brands & Logos"]
   },
   {
     "name": "if-amex",
     "tags": [
       "amex"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Business & Finance","Brands & Logos"]
   },
   {
     "name": "if-zoom",
@@ -3220,21 +3220,21 @@
     "tags": [
       "ytmusic"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Social"]
   },
   {
     "name": "if-yahoo",
     "tags": [
       "yahoo"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Social"]
   },
   {
     "name": "if-xbox",
     "tags": [
       "xbox"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Social"]
   },
   {
     "name": "if-wish",
@@ -3248,63 +3248,63 @@
     "tags": [
       "wendys"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos"]
   },
   {
     "name": "if-vlc",
     "tags": [
       "vlc"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Media Control"]
   },
   {
     "name": "if-venmo",
     "tags": [
       "venmo"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Business & Finance"]
   },
   {
     "name":"if-tinder",
     "tags": [
       "tinder"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Social"]
   },
   {
     "name": "if-tidal",
     "tags": [
       "tidal"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Media Control"]
   },
   {
     "name": "if-tesla",
     "tags": [
       "tesla"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos"]
   },
   {
     "name": "if-steam",
     "tags": [
       "steam"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Social"]
   },
   {
     "name": "if-starbucks",
     "tags": [
       "starbucks"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos"]
   },
   {
     "name": "if-square",
     "tags": [
       "square"
     ],
-    "filter": "Shapes & Symbols"
+    "filter": ["Brands & Logos"]
   },
   {
     "name": "if-sprite",
@@ -3339,7 +3339,7 @@
     "tags": [
       "rss"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Media Control"]
   },
   {
     "name": "if-playstation",
@@ -3501,7 +3501,7 @@
       "google",
       "pay"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Business & Finance","Brands & Logos"]
   },
   {
     "name": "if-google",
@@ -3711,98 +3711,98 @@
     "tags": [
       "telegram"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Social"]
   },
   {
     "name": "if-trello",
     "tags": [
       "trello"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Social"]
   },
   {
     "name": "if-slack",
     "tags": [
       "slack"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Social"]
   },
   {
     "name": "if-wechat",
     "tags": [
       "wechat"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Social"]
   },
   {
     "name": "if-myspace",
     "tags": [
       "myspace"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Social"]
   },
   {
     "name": "if-bebo",
     "tags": [
       "bebo"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Social"]
   },
   {
     "name": "if-messenger",
     "tags": [
       "messenger"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Social"]
   },
   {
     "name": "if-pinterest",
     "tags": [
       "pinterest"
     ],
-    "filter": "Social"
+    "filter": ["Brands & Logos","Social"]
   },
   {
     "name": "if-discord",
     "tags": [
       "discord"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Social"]
   },
   {
     "name": "if-digg",
     "tags": [
       "digg"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Social"]
   },
   {
     "name": "if-stumbleupon",
     "tags": [
       "stumbleupon"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Social"]
   },
   {
     "name": "if-linkedin",
     "tags": [
       "linkedin"
     ],
-    "filter": "Social"
+    "filter": ["Brands & Logos","Social"]
   },
   {
     "name": "if-medium",
     "tags": [
       "medium"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Social"]
   },
   {
     "name": "if-tiktok",
     "tags": [
       "tiktok"
     ],
-    "filter": "Social"
+    "filter": ["Brands & Logos","Social"]
   },
   {
     "name": "if-flickr",
@@ -3816,462 +3816,462 @@
     "tags": [
       "dribbble"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Social"]
   },
   {
     "name": "if-deviantart",
     "tags": [
       "deviantart"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Social"]
   },
   {
     "name": "if-behance",
     "tags": [
       "behance"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Social"]
   },
   {
     "name": "if-wordpress",
     "tags": [
       "wordpress"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-reddit",
     "tags": [
       "reddit"
     ],
-    "filter": "Social"
+    "filter": ["Brands & Logos","Social"]
   },
   {
     "name": "if-stackoverflow",
     "tags": [
       "stackoverflow"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Social"]
   },
   {
     "name": "if-snapchat",
     "tags": [
       "snapchat"
     ],
-    "filter": "Social"
+    "filter": ["Brands & Logos","Social"]
   },
   {
     "name": "if-twitch",
     "tags": [
       "twitch"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Social"]
   },
   {
     "name": "if-tumblr",
     "tags": [
       "tumblr"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Social"]
   },
   {
     "name": "if-youtube",
     "tags": [
       "youtube"
     ],
-    "filter": "Social"
+    "filter": ["Brands & Logos","Social"]
   },
   {
     "name": "if-x",
     "tags": [
       "x"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Social"]
   },
   {
     "name": "if-whatsapp",
     "tags": [
       "whatsapp"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Social"]
   },
   {
     "name": "if-threads",
     "tags": [
       "threads"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Social"]
   },
   {
     "name": "if-instagram",
     "tags": [
       "instagram"
     ],
-    "filter": "Social"
+    "filter": ["Brands & Logos","Social"]
   },
   {
     "name": "if-facebook",
     "tags": [
       "facebook"
     ],
-    "filter": "Social"
+    "filter": ["Brands & Logos","Social"]
   },
   {
     "name": "if-vmware",
     "tags": [
       "vmware"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-npm",
     "tags": [
       "npm"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-nuxtjs",
     "tags": [
       "nuxtjs"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-nextjs",
     "tags": [
       "nextjs"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-haskell",
     "tags": [
       "haskell"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-solidity",
     "tags": [
       "solidity"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-ionic",
     "tags": [
       "ionic"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-bitbucket",
     "tags": [
       "bitbucket"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-webgl",
     "tags": [
       "webgl"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-graphql",
     "tags": [
       "graphql"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-jupyter",
     "tags": [
       "jupyter"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-webhook",
     "tags": [
       "webhook"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-redux",
     "tags": [
       "redux"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-sass",
     "tags": [
       "sass"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-terraform",
     "tags": [
       "terraform"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-docker",
     "tags": [
       "docker"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-bootstrap",
     "tags": [
       "bootstrap"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-django",
     "tags": [
       "django"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-gitlab",
     "tags": [
       "gitlab"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-github",
     "tags": [
       "github"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-git",
     "tags": [
       "git"
     ],
-    "filter": "Development"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-nodejs",
     "tags": [
       "nodejs"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-sqlite",
     "tags": [
       "sqlite"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-postgresql",
     "tags": [
       "postgresql"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-mysql",
     "tags": [
       "mysql"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-golang",
     "tags": [
       "golang"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-rust",
     "tags": [
       "rust"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-dart",
     "tags": [
       "dart"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-flask",
     "tags": [
       "flask"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-python",
     "tags": [
       "python"
     ],
-    "filter": "Development"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-express",
     "tags": [
       "express"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-lua",
     "tags": [
       "lua"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-ruby",
     "tags": [
       "ruby"
     ],
-    "filter": "Development"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-php",
     "tags": [
       "php"
     ],
-    "filter": "Development"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-kotlin",
     "tags": [
       "kotlin"
     ],
-    "filter": "Development"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-flutter",
     "tags": [
       "flutter"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-swift",
     "tags": [
       "swift"
     ],
-    "filter": "Development"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-java",
     "tags": [
       "java"
     ],
-    "filter": "Development"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-react",
     "tags": [
       "react"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-angularjs",
     "tags": [
       "angularjs"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-jquery",
     "tags": [
       "jquery"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-vuejs",
     "tags": [
       "vuejs"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-typescript",
     "tags": [
       "typescript"
     ],
-    "filter": "Development"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-csharp",
     "tags": [
       "csharp"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-cpp",
     "tags": [
       "cpp"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-c",
     "tags": [
       "c"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-tailwindcss",
     "tags": [
       "tailwind", "css"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-javascript",
     "tags": [
       "javascript"
     ],
-    "filter": "Development"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-css",
     "tags": [
       "css"
     ],
-    "filter": "Development"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-html",
     "tags": [
       "html"
     ],
-    "filter": "Development"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-iconforge",
     "tags": [
       "iconforge"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   },
   {
     "name": "if-iconforge-alt",
@@ -4279,6 +4279,6 @@
       "iconforge",
       "alt"
     ],
-    "filter": "Brands & Logos"
+    "filter": ["Brands & Logos","Dev & Tech"]
   }
 ]
